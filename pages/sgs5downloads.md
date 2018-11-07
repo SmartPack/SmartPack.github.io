@@ -13,11 +13,11 @@ permalink: /sgs5/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/klte.png" alt="" width="154" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel version is only meant to work on LineageOS 15.1 (Android 8.1.0) and nothing else (Please note: older versions (Noughat & Marshmallow) are discontinued, though download links are still available for anyone interested). This kernel may work on other LineageOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p>This kernel version is only meant to work on LineageOS (14.1/15.1/16) and nothing else (Please note: older versions (for Marshmallow) are discontinued, though download links are still available for anyone interested). This kernel may work on other LineageOS based Nouagt/Oreo/Pie ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
-* Build from Oxygen OS <a href="https://github.com/android-linux-stable/op5/" target="_blank">source code</a> maintained by nathanchance
+* Build from stock Lineage OS <a href="https://github.com/LineageOS/android_kernel_samsung_msm8974" target="_blank">source code</a>
 * Built using latest (GCC 8.x) toolchain
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="https://SmartPack.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
@@ -69,19 +69,19 @@ permalink: /sgs5/
 * klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=278284" target="_blank">All builds</a>
 * kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Oreo/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Latest build</a> ! <a href="https://androidfilehost.com/?w=files&flid=278285" target="_blank">All builds</a>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
-
-<hr>
-
-<h3 style="color: red">End-of-Life Kernels</h3>
-
 <p>! <strong>Lineage-OS 14.1 (Nougat)</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/tree/Nougat" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md" target="_blank">Change-logs</a> !</p>
 * klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227310" target="_blank">All builds</a>
 * kltekor ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227315" target="_blank">All builds</a>
 * kltespr ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltespr.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227317" target="_blank">All builds</a>
 * klteduos ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-klteduos.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=227316" target="_blank">All builds</a>
 * kltekdi ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Nougat/kernel-release/SmartPack-Kernel-kltekdi.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=251637" target="_blank">All builds</a>
+
+<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
+
+<hr>
+
+<h3 style="color: red">End-of-Life Kernels</h3>
 
 <p>! <strong>Samsung Stock (Marshmallow)</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/tree/stock" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/stock/change-logs.md" target="_blank">Change-logs</a> !</p>
 * klte ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/stock/kernel-release/SmartPack-Kernel-klte.zip?raw=true">Final build</a> ! <a href="https://androidfilehost.com/?w=files&flid=177762" target="_blank">All builds</a>
