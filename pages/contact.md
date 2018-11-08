@@ -27,11 +27,3 @@ permalink: /contact/
 <h3 style="color: blue">Special note to other developers</h3>
 
 <p style="text-align: justify;"><tab1>Feel free to take anything from my work if you found useful. Giving proper credits to the original developers (including me, if you considered me as one among them) are, however, highly appreciated. Feel free to contact me, if you need any assistance from my side.</tab1></p>
-
-<hr>
-
-<h3 style="color: blue">Donations</h3>
-
-<p style="text-align: justify;"><tab1>Want to appreciate my works? Please consider a donation as it will help me to continue my projects more active although it is not at all necessary. I'll really appreciate it!</tab1></p>
-
-<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
