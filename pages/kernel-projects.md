@@ -13,6 +13,7 @@ permalink: /kernel-projects/
 <h3 style="color: blue">SmartPack-Kernel for OnePlus 5T (Stock OOS-Oreo)</h3>
 
 <h4>Supported devices</h4>
+* cheeseburger: OnePlus 5
 * dumpling: OnePlus 5T
 
 ### Important links
