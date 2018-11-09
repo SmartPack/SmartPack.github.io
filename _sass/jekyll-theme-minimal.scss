@@ -198,6 +198,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  z-index: -1
 }
 
 ul.downloads {
