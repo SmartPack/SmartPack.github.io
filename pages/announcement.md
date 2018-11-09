@@ -8,7 +8,7 @@ permalink: /announcements/
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">Announcements</h2>
+<h2 style="color: blue; text-align: center">Announcements</h2>
 
 <h3 style="text-align: left;">August 27, 2018</h3>
 

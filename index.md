@@ -7,7 +7,7 @@ title: Home
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">SmartPack Projects</h2>
+<h2 style="color: blue; text-align: center">SmartPack Projects</h2>
 
 <p style="text-align: justify;"><tab1><strong>SmartPack</strong> projects (mainly Kernel projects) are aimed and designed to improve the efficiency of our beloved Android devices without compromising the stability and day-by-day usability. The project currently supports the following devices.</tab1></p>
 * OnePlus 5/5T (cheeseburger/dumpling)
@@ -16,7 +16,7 @@ title: Home
 
 <hr>
 
-<h2 style="color: red; text-align: center">Announcements</h2>
+<h2 style="color: blue; text-align: center">Announcements</h2>
 
 <h3 style="text-align: left">August 27, 2018</h3>
 

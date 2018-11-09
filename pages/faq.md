@@ -4,7 +4,7 @@ title: Frequently Asked Questions (FAQ)
 permalink: /faq/
 ---
 
-<h2 style="color: red; text-align: center">Frequently Asked Questions (FAQ)</h2>
+<h2 style="color: blue; text-align: center">Frequently Asked Questions (FAQ)</h2>
 
 <p><strong>Q1</strong>: Which version of kernel should I use?</p>
 <p><strong>Ans</strong>: I recommend using the latest for stock and the latest Lineage-OS. If you are on a Lineage-OS based ROM  with an old built date, you probably need to find an old version of my kernel with a comparable build date (though you are advised to stay with the latest, if possible).</p>
