@@ -20,7 +20,7 @@ permalink: /op5t/
 * Build from Oxygen OS <a href="https://github.com/android-linux-stable/op5/" target="_blank">source code</a> maintained by nathanchance
 * Built using latest GCC 8.x toolchain
 * Anykernel base for the best compatibility
-* Kernel tweaking app recommend: <a href="https://SmartPack.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
+* Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
 * Devfreq Boost

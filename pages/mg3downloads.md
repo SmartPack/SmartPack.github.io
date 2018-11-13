@@ -20,7 +20,7 @@ permalink: /motog2015/
 * Build from LineageOS 15.1 <a href="https://github.com/MOTO-M8916/kernel_motorola_msm8916/" target="_blank">source code</a> maintained by MOTO-M8916 development team
 * Built using latest (GCC 8.x) toolchain
 * Anykernel base for the best compatibility
-* Kernel tweaking app recommend: <a href="https://SmartPack.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
+* Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
 * CPU Freq Gov: Blu_active, ElementalX, Interactive Pro, Pegasusq, Yankactive & Alucard
 * CPU hotplugs: Lazyplug, MSM Sleeper & Alucard

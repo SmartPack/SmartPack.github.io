@@ -12,7 +12,7 @@ permalink: /kernel-projects/
 
 <h3 style="color: blue">SmartPack-Kernel for OnePlus 5T (Stock OOS-Oreo)</h3>
 
-<p><a href="https://smartpack.github.io/op5t/">(Read more)</a></p>
+<p><a href="{{ site.github.url }}/op5t/">(Read more)</a></p>
 
 <h4>Supported devices</h4>
 * cheeseburger: OnePlus 5
@@ -25,7 +25,7 @@ permalink: /kernel-projects/
 
 <h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
 
-<p><a href="https://smartpack.github.io/sgs5/">(Read more)</a></p>
+<p><a href="{{ site.github.url }}/sgs5/">(Read more)</a></p>
 
 <h4>Supported devices</h4>
 * klte: SM-G900F, SM-G900V, SM-S902L
@@ -41,7 +41,7 @@ permalink: /kernel-projects/
 
 <h3 style="color: blue">SmartPack-Kernel for Moto G 2015 (Lineage-OS 15.1)</h3>
 
-<p><a href="https://smartpack.github.io/motog2015/">(Read more)</a></p>
+<p><a href="{{ site.github.url }}/motog2015/">(Read more)</a></p>
 
 <h4>Supported devices</h4>
 * Moto G 2015: osprey
