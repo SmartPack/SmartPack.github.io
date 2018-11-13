@@ -13,7 +13,7 @@ permalink: /sgs5/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/klte.png" alt="" width="154" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel version is only meant to work on LineageOS (14.1/15.1/16) and nothing else (Please note: older versions (for Marshmallow) are discontinued, though download links are still available for anyone interested). This kernel may work on other LineageOS based Nouagt/Oreo/Pie ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">This kernel version is only meant to work on LineageOS (14.1/15.1/16) and nothing else (Please note: older versions (for Marshmallow) are discontinued, though download links are still available for anyone interested). This kernel may work on other LineageOS based Nouagt/Oreo/Pie ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
@@ -39,6 +39,7 @@ permalink: /sgs5/
 * Boeffla Generic Wakelock Blocker
 * KCAL v2 advanced color control interface
 * Option to adjust Maximum & Minimum Display Backlight
+* Notification LED Control (Blink/Fade/Intensity) 
 * SELinux "Enforcing" by default (can be switched to "Permissive" in SmartPack-Kernel Manager)
 * a lot more...
 

@@ -14,6 +14,13 @@ permalink: /spkm/
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 
+<p style="color: blue">Further, before using SmartPack-kernel Manager, please be aware that,</p>
+
+* This app still retains almost all the donation requests by Grarak. Those are, however, intended to express my respect for his original work. Please be aware that this app is no way supported by him and buying his official donated version will NOT unlock any hidden features in this app.
+* This app requires ROOT ACCESS.
+* Most of the features available in this app require kernel-level support.
+* This app does NOT contain any languages other than English.
+
 <h3 style="color: blue">Added features over official KA</h3>
 
 <p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
@@ -41,7 +48,7 @@ permalink: /spkm/
 
 <p>Download and manually install the latest version of app from the below link.</p>
 
-<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank">xda-developers.com</a></i>)</p>
+<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/android/apps-games/app-smartpack-kernel-manager-t3854717" target="_blank">xda-developers.com</a></i>)</p>
 
 <hr>
 

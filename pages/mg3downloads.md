@@ -13,7 +13,7 @@ permalink: /motog2015/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/osprey.png" alt="" width="157" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel is only meant to work on LineageOS 15.1 (Android 8.1.0) and nothing else. However, it may work on other LOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">This kernel is only meant to work on LineageOS 15.1 (Android 8.1.0) and nothing else. However, it may work on other LOS based Oreo ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">SmartPack-Kernel features</h3>
 
@@ -29,7 +29,7 @@ permalink: /motog2015/
 * Faux Sound to control Headphone (including per-channel gain in SmartPack-Kernel Manager), Speaker and Microphone (calls)
 * Real-time charging status in SmartPack-Kernel Manager
 * Option to adjust Maximum & Minimum Display Backlight
-* Option to disable charging LED light
+* Option to control Notification LED light
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * a lot more...
 

@@ -13,7 +13,7 @@ permalink: /op5t/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p>This kernel is only meant to work on stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">This kernel is only meant to work on stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
@@ -23,6 +23,8 @@ permalink: /op5t/
 * Kernel tweaking app recommend: <a href="https://SmartPack.github.io/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
 * CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
+* Devfreq Boost
+* Simple LMK
 * CPU Freq Gov: Blu_active, Alucard and Impulse
 * Adreno Boost for msm-adreno-tz (disabled by default)
 * IO schedulers: Maple, Zen, Fiops, SIO & SIO Plus
@@ -33,8 +35,8 @@ permalink: /op5t/
 * Boeffla Generic Wakelock Blocker
 * Vibration Strength Control
 * Option to adjust Maximum & Minimum Display Backlight
-* USB charging rate bumped up to 900 mA
-* LED blink/fade control
+* USB fast charging
+* Notification LED Control (Blink/Fade/Intensity) 
 * KCAL v2 advanced color control interface
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * FSync on/off support
