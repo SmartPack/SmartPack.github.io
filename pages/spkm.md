@@ -10,20 +10,20 @@ permalink: /spkm/
 
 <h2 style="color: red; text-align: center">SmartPack-Kernel Manager</h2>
 
-<p style="text-align: center;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic008.jpg?raw=true" alt="" width="422" height="500" /></p>
+<p style="text-align: center"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic008.jpg?raw=true" alt="" width="422" height="500" /></p>
 
-<p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
+<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 
-<p style="color: blue">Further, before using SmartPack-kernel Manager, please be aware that,</p>
+<h3 style="color: red">Further, before using SmartPack-Kernel Manager, please be aware that,</h3>
 
-* This app still retains almost all the donation requests by Grarak. Those are, however, intended to express my respect for his original work. Please be aware that this app is no way supported by him and buying his official donated version will NOT unlock any hidden features in this app.
-* This app requires ROOT ACCESS.
+* This app still retains almost all the donation requests by Grarak. Those are, however, intended to express my respect for his original work. Please be aware that this app is no way supported by him and buying his official donated version will <strong>NOT</strong> unlock any hidden features in this app.
+* This app requires <strong>ROOT ACCESS</strong>.
 * Most of the features available in this app require kernel-level support.
-* This app does NOT contain any languages other than English.
+* This app does <strong>NOT</strong> contain any languages other than English.
 
 <h3 style="color: blue">Added features over official KA</h3>
 
-<p style="text-align: justify;"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
+<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
 
 * CPU Input Boost (Sultanxda).
 * Simple MSM Thermal (Sultanxda).
@@ -54,7 +54,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">Donations</h3>
 
-<p style="text-align: justify;"><tab1>If you like to appreciate my work, please consider donating to me as it will help me to continue my projects more active, though it is not at all necessary.</tab1></p>
+<p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me as it will help me to continue my projects more active, though it is not at all necessary.</tab1></p>
 
 <p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
 
