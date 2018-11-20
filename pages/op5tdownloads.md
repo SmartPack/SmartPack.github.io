@@ -64,7 +64,7 @@ permalink: /op5t/
 <h3 style="color: blue">Downloads</h3>
 
 <p>! <strong>SmartPack-Kernel for OnePlus 5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Stable OOS)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo_Beta/kernel-release/SmartPack-Kernel-dumpling-OB.zip?raw=true">Latest version (Open Beta)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
 
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
