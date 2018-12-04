@@ -28,7 +28,8 @@ permalink: /spkm/
 * CPU Input Boost (Sultanxda).
 * Simple MSM Thermal (Sultanxda).
 * Advanced Control for Fast Charge (yank555.lu) & Boeffla Charge Level Interface (Lord Boeffla).
-* Boeffla Sound (Lord Boeffla) & Faux Sound (Faux123) with per-channel headphone gain.
+* Boeffla Sound Control (Lord Boeffla).
+* Significantly different Faux Sound implementation.
 * In-built Spectrum Support (frap129).
 * Adreno Boost (flar2).
 * MSM Sleeper (flar2).
@@ -38,6 +39,7 @@ permalink: /spkm/
 * WireGuard version information.
 * Auto-updates (in About page).
 * Real-time Charging Status.
+* RAM & Swap Status
 * LED Blink/Fade support.
 * Device & android version specific kernel download & Auto flashing for supported devices.
 * Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager).
