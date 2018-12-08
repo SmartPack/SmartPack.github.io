@@ -18,7 +18,7 @@ title: Home
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
-<h3 style="text-align: left">August 27, 2018</h3>
+<h3 style="text-align: left">December 07, 2018</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
-<p style="text-align: justify;"><tab1>SmartPack-Kernel is now available for Moto G 2015 (osprey) running Lineage OS 15.1. Support page at xda-developers.com forum is now live (<a href="{{ site.github.url }}/announcements">Read More</a>).</tab1></p>
+<p style="text-align: justify;"><tab1>SmartPack-Kernel for Samsung Galaxy S5 (Snapdragon variants) now officially supports Lineage OS 16 and other Lineage OS 16 based Pie ROMs (<a href="{{ site.github.url }}/announcements">Read More</a>).</tab1></p>
