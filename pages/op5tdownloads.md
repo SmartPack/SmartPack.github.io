@@ -17,7 +17,7 @@ permalink: /op5t/
 
 <h3 style="color: blue">Features</h3>
 
-* Build from Oxygen OS <a href="https://github.com/android-linux-stable/op5/" target="_blank">source code</a> maintained by nathanchance
+* Build from stock Oxygen OS <a href="https://github.com/OnePlusOSS/android_kernel_oneplus_msm8998/" target="_blank">source code</a>
 * Built using latest GCC 8.x toolchain
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
@@ -63,8 +63,8 @@ permalink: /op5t/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p>! <strong>SmartPack-Kernel for OnePlus 5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
+<p>! <strong>SmartPack-Kernel for OnePlus 5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank">Change-logs</a> !</p>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Pie/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Pie)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Last version (Oreo)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
 
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
