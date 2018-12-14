@@ -10,17 +10,24 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
-<h3 style="text-align: left">December 07, 2018</h3>
+<h3 style="text-align: left">December 14, 2018</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
-<p style="text-align: justify;"><tab1>SmartPack-Kernel for Samsung Galaxy S5 (Snapdragon variants) now officially supports Lineage OS 16 and other Lineage OS 16 based Pie ROMs. Click <a href="https://forum.xda-developers.com/showpost.php?p=78359850&postcount=2038" target="_blank">here</a> to visit the release notes at xda-developers.com. For download links, change-logs and other details, please visit <a href="{{ site.github.url }}/sgs5/">here</a>.</tab1></p>
+<p style="text-align: justify;"><tab1>SmartPack-Kernel for OnePlus 5/5T now officially supports Android 9 (Pie). Click <a href="https://forum.xda-developers.com/showpost.php?p=78421629&postcount=97" target="_blank">here</a> to read the release notes at xda-developers.com. For download links, change-logs and other details, please visit <a href="{{ site.github.url }}/op5t/">here</a>.</tab1></p>
 
 <hr>
 
 <h3 style="text-align: left">December 07, 2018</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
-<p style="text-align: justify;"><tab1>Boeffla-Kernel (unofficial) for Samsung Galaxy S5 (Snapdragon variants) now officially supports Lineage OS 16 and other Lineage OS 16 based Pie ROMs. Click <a href="https://forum.xda-developers.com/showpost.php?p=78359898&postcount=321" target="_blank">here</a> to visit the release notes at xda-developers.com. For download links and change-logs, please visit <a href="{{ site.github.url }}/downloads/">here</a>.</tab1></p>
+<p style="text-align: justify;"><tab1>SmartPack-Kernel for Samsung Galaxy S5 (Snapdragon variants) now officially supports Lineage OS 16 and other Lineage OS 16 based Pie ROMs. Click <a href="https://forum.xda-developers.com/showpost.php?p=78359850&postcount=2038" target="_blank">here</a> to read the release notes at xda-developers.com. For download links, change-logs and other details, please visit <a href="{{ site.github.url }}/sgs5/">here</a>.</tab1></p>
+
+<hr>
+
+<h3 style="text-align: left">December 07, 2018</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>Boeffla-Kernel (unofficial) for Samsung Galaxy S5 (Snapdragon variants) now officially supports Lineage OS 16 and other Lineage OS 16 based Pie ROMs. Click <a href="https://forum.xda-developers.com/showpost.php?p=78359898&postcount=321" target="_blank">here</a> to read the release notes at xda-developers.com. For download links and change-logs, please visit <a href="{{ site.github.url }}/downloads/">here</a>.</tab1></p>
 
 <hr>
 
