@@ -9,10 +9,15 @@ title: Home
 
 <h2 style="color: blue; text-align: center">SmartPack Projects</h2>
 
-<p style="text-align: justify;"><tab1><strong>SmartPack</strong> projects (mainly Kernel projects) are aimed and designed to improve the efficiency of our beloved Android devices without compromising the stability and day-by-day usability. The project currently supports the following devices.</tab1></p>
-* OnePlus 5/5T (cheeseburger/dumpling)
-* Samsung Galaxy S5 (Qualcomm Snapdragon 801 variants).
-* Motorola Moto G 2015 (osprey).
+<p style="text-align: justify;"><tab1><strong>SmartPack</strong> projects (mainly Kernel projects) are aimed and designed to improve the efficiency of our beloved Android devices without compromising the stability and day-by-day usability.</tab1></p>
+
+* Currently supported devices
+  * OnePlus 5/5T (cheeseburger/dumpling)
+  * Motorola Moto G 2015 (osprey).
+* Previously supported devices
+  * Samsung Galaxy S5 (Qualcomm Snapdragon 801 variants).
+  * Samsung Galaxy S5 LTE-A (Qualcomm Snapdragon 805 variants).
+  * Samsung Galaxy S4 (Exynos 5410 variants).
 
 <hr>
 

@@ -23,22 +23,6 @@ permalink: /kernel-projects/
 
 <hr>
 
-<h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)</h3>
-
-<p><a href="{{ site.github.url }}/sgs5/">(Read more)</a></p>
-
-<h4>Supported devices</h4>
-* klte: SM-G900F, SM-G900V, SM-S902L
-* kltekor: SM-G900K/L/S
-* kltedv: SM-G900P/I
-* klteduos: SM-G900FD, SM-G900MD
-* kltekdi: SCL23
-
-### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177739" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
-
-<hr>
-
 <h3 style="color: blue">SmartPack-Kernel for Moto G 2015 (Lineage-OS 15.1)</h3>
 
 <p><a href="{{ site.github.url }}/motog2015/">(Read more)</a></p>
