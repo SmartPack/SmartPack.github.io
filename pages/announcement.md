@@ -10,6 +10,13 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">February 01, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;">Hi friends...<br><br><tab1>I'll be on vacation and mostly busy with travel for the next three weeks. It will be really difficult for me to do any real development throughout the period. That means I have no way to update any of my projects (including Kernels, Apps etc.) during the entire period. Of course, I'll occasionally read all the messages in my xda threads and in Telegram. For any issues related to my Kernels/App, feel free to visit the respective xda threads. If you are good with GitHub, please consider raising an issue in the respective GitHub page, so that it will be registered and saved forever.<br><br>Looking forward to see you all again, around 20th of February.<br><br>Bye for now... & Enjoy my absence...</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">December 28, 2018</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
