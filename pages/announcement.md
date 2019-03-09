@@ -10,6 +10,13 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">February 22, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>SmartPack-Kernel for Motorola Moto G 2015 (osprey) is now officially discontinued as I do not own the device anymore. If anyone like to continue this project, feel free to <a href="{{ site.github.url }}/contact">contact me</a>. Click <a href="https://forum.xda-developers.com/showpost.php?p=78960750&postcount=68" target="_blank">here</a> to read more at xda-developers.com.</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">February 01, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 

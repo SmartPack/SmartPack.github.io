@@ -32,6 +32,7 @@ permalink: /spkm/
 * Significantly different Faux Sound implementation.
 * In-built Spectrum Support (frap129).
 * Adreno Boost (flar2).
+* K-Lapse Support (tanish2k09)
 * MSM Sleeper (flar2).
 * Boeffla Wakelock Blocker (Lord Boeffla).
 * Display Backlight Control (Min & Max).

@@ -10,6 +10,8 @@ permalink: /motog2015/
 
 <h2 style="color: red; text-align: center">Moto G 2015</h2>
 
+<h3 style="color: blue; text-align: center">Please note: This project is now End-of-Life (EOL)</h3>
+
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/osprey.png" alt="" width="157" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
@@ -64,6 +66,8 @@ permalink: /motog2015/
 <hr>
 
 <h3 style="color: blue">Downloads</h3>
+
+<h3 style="color: red">End-of-Life (EOL) Kernels</h3>
 
 <p>! <strong>SmartPack-Kernel for Moto G 2015</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_osprey/Oreo/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey/blob/Oreo/kernel-release/SmartPack-Kernel-osprey.zip?raw=true">Latest version (LOS-15.1)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281324" target="_blank">All versions</a>
