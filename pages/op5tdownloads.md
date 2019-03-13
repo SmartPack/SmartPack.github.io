@@ -1,6 +1,6 @@
 ---
 layout: smartpack
-title: OnePlus 5T
+title: OnePlus 5/5T
 permalink: /op5t/
 ---
 
@@ -8,12 +8,12 @@ permalink: /op5t/
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">OnePlus 5T</h2>
+<h2 style="color: red; text-align: center">OnePlus 5/5T</h2>
 
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p style="text-align: justify;">This kernel is only meant to work on stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">This kernel is only meant to work on OnePlus 5/5T running stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
@@ -22,14 +22,14 @@ permalink: /op5t/
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
-* CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
+* CPU Input Boost
 * Devfreq Boost
 * Simple LMK
+* K-Lapse Support
 * CPU Freq Gov: Blu_active, Alucard and Impulse
 * Adreno Boost for msm-adreno-tz (disabled by default)
 * IO schedulers: Maple, Zen, Fiops, SIO & SIO Plus
 * Advanced TCP congestion algorithms (default: Westwood)
-* Performance Tweaks (Spectrum based) within SmartPack-Kernel Manager
 * Real-time charging status in SmartPack-Kernel Manager
 * Boeffla Sound to control Headphone, Earpiece (calls) and Microphone (calls)
 * Boeffla Generic Wakelock Blocker
@@ -63,7 +63,7 @@ permalink: /op5t/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p>! <strong>SmartPack-Kernel for OnePlus 5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank">Change-logs</a> !</p>
+<p>! <strong>SmartPack-Kernel for OnePlus 5/5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Pie/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Pie)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Oreo)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
 
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>

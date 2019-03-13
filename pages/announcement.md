@@ -10,6 +10,13 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">March 06, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>Ultimate control over K-Lapse, a kernel level live-display module by <a href="https://forum.xda-developers.com/member.php?u=5913332" target="_blank">tanish2k09</a> is now available in SmartPack-Kernel Manager. Click <a href="https://forum.xda-developers.com/android/software-hacking/k-lapse-kernel-level-livedisplay-module-t3907031" target="_blank">here</a> to read more about K-Lapse at xda-developers.com.</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">February 22, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 

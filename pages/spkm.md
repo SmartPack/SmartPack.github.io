@@ -19,7 +19,6 @@ permalink: /spkm/
 * This app still retains almost all the donation requests by Grarak. Those are, however, intended to express my respect for his original work. Please be aware that this app is no way supported by him and buying his official donated version will <strong>NOT</strong> unlock any hidden features in this app.
 * This app requires <strong>ROOT ACCESS</strong>.
 * Most of the features available in this app require kernel-level support.
-* This app does <strong>NOT</strong> contain any languages other than English.
 
 <h3 style="color: blue">Added features over official KA</h3>
 
