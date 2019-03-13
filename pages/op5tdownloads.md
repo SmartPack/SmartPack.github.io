@@ -13,16 +13,18 @@ permalink: /op5t/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p style="text-align: justify;">This kernel is only meant to work on OnePlus 5/5T running stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">This kernel is only meant to work on OnePlus 5/5T running stock Oxygen OS (Stable & Open Beta) and nothing else. However, it may work on other OOS based Oreo/Pie ROMs as well (Please try at your own risk).</p>
 
 <h3 style="color: blue">Features</h3>
 
 * Build from stock Oxygen OS <a href="https://github.com/OnePlusOSS/android_kernel_oneplus_msm8998/" target="_blank">source code</a>
 * Built using latest GCC 8.x toolchain
+* Up-to-date with the latest stable Linux and CAF tag
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
 * CPU Input Boost
+* Dynamic Stune Boost
 * Devfreq Boost
 * Simple LMK
 * K-Lapse Support
@@ -36,10 +38,12 @@ permalink: /op5t/
 * Vibration Strength Control
 * Option to adjust Maximum & Minimum Display Backlight
 * USB fast charging
+* High Brightness Mode
 * Notification LED Control (Blink/Fade/Intensity) 
 * KCAL v2 advanced color control interface
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * FSync on/off support
+* PrintK_logging on/off support
 * CRC on/off support (disabled by default)
 * a lot more...
 
