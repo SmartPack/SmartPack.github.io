@@ -15,6 +15,9 @@ permalink: /announcements/
 
 <p style="text-align: justify;"><tab1>Ultimate control over K-Lapse, a kernel level live-display module by <a href="https://forum.xda-developers.com/member.php?u=5913332" target="_blank">tanish2k09</a> is now available in SmartPack-Kernel Manager. Click <a href="https://forum.xda-developers.com/android/software-hacking/k-lapse-kernel-level-livedisplay-module-t3907031" target="_blank">here</a> to read more about K-Lapse at xda-developers.com.</tab1></p>
 
+### Important links
+<p><a href="https://forum.xda-developers.com/android/apps-games/app-smartpack-kernel-manager-t3854717" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+
 <hr>
 
 <h3 style="text-align: left">February 22, 2019</h3>
