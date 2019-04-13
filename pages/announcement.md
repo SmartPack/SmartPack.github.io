@@ -10,6 +10,13 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">April 10, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>A big thanks to <a href="https://forum.xda-developers.com/member.php?u=4392154" target="_blank">apophis9283</a>, SmartPack-Kernel Manager is now built in with his custom AOSP Extended ROM (from v1.6 onwards), Click <a href="https://forum.xda-developers.com/oneplus-5t/development/aex-1-0-krieg-kernel-t3911571" target="_blank">here</a> to visit the xda support page of the ROM.</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">March 06, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
