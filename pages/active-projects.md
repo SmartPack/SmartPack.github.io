@@ -1,14 +1,14 @@
 ---
 layout: smartpack
-title: Active Kernel Projects
-permalink: /kernel-projects/
+title: Active Projects
+permalink: /active-projects/
 ---
 
 <style>
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red">Active Kernel Projects</h2>
+<h2 style="color: red">Active Projects</h2>
 
 <h3 style="color: blue">SmartPack-Kernel for OnePlus 5T (Stock OOS-Oreo)</h3>
 
@@ -23,12 +23,11 @@ permalink: /kernel-projects/
 
 <hr>
 
-<h3 style="color: blue">SmartPack-Kernel for Moto G 2015 (Lineage-OS 15.1)</h3>
+<h3 style="color: blue">SmartPack-Kernel Manager</h3>
 
-<p><a href="{{ site.github.url }}/motog2015/">(Read more)</a></p>
-
-<h4>Supported devices</h4>
-* Moto G 2015: osprey
+<p><a href="{{ site.github.url }}/spkm/">(Read more)</a></p>
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/2015-moto-g/orig-development/kernel-smartpack-linaro-gcc-7-x-lineage-t3834515" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281324" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_osprey/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/android/apps-games/app-smartpack-kernel-manager-t3854717" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/latest" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+
+<hr>
