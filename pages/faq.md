@@ -24,11 +24,11 @@ permalink: /faq/
 <br><strong>Q6</strong>: Which are the best CPUfreq gov/CPU hotplug/IOScheduler/TCP congestion algorithm for battery life/performance etc?<br>
 <br><strong>Ans</strong>: Again you need to find out those things yourself. To get more idea, I suggest you read this awesome <a href="https://forum.xda-developers.com/general/general/ref-to-date-guide-cpu-governors-o-t3048957/post59289777#post59289777">guide</a> by <a href="https://forum.xda-developers.com/member.php?u=5811506">Saber</a><br>
 
-<br><strong>Q7</strong>: Could you add feature x and y to your kernel?<br>
-<br><strong>Ans</strong>: Not sure. It depends on the feature and the capability of the device. Anyway, I’m happy to check and add, if possible, any useful features (unless it is too experimental or dangerous) to my kernel. Please give your suggestions in the official xda thread.<br>
+<br><strong>Q7</strong>: Could you add feature(s) x or/and y to your App/Kernel?<br>
+<br><strong>Ans</strong>: Not sure. It depends on the feature and the capability of the device(s). Anyway, I’m happy to check and add, if possible, any useful features (unless it is too experimental or dangerous) to my App/Kernel. Please give your suggestions in the official xda thread.<br>
 
 <br><strong>Q8</strong>: When will you release a new version of your work?<br>
-<br><strong>Ans</strong>: New updates will arrive whenever I have something new to present in front of you (such as I managed to add new useful features or fix some existing issues or along with each LOS release with some changes in the kernel source code).<br>
+<br><strong>Ans</strong>: New updates will arrive whenever I have something new to present in front of you (such as I managed to add new useful features or fix some existing issues).<br>
 
 <br><strong>Q9</strong>: I found a bug, what do I do?<br>
 <br><strong>Ans</strong>: Please provide as much information as possible (such as what feature, what didn't work, screenshots or logcat if possible) and post in this thread.</p>

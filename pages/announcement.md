@@ -10,6 +10,35 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+
+
+<h3 style="text-align: left">April 21, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1><strong>It's an Easter day. So, here is a small gift for Samsung Galaxy S5 users.</strong><br>
+
+<br><strong>Story</strong>
+<br>I again got my S5 back for a few days use. As usual, I updated Lineage OS 16 kernel for my personal use. Here I'm sharing the same for anyone interested. So, here is beta-v3.<br>
+
+<br><strong>Changes</strong>
+<br>&rarr; Up-to-date with Lineage OS changes.<br>
+
+<br><strong>Please Note</strong>
+<br>&rarr; Built over my Pie branch and tested only on Lineage OS 16 (Pie). It might work on Lineage OS 15.1 (Oreo) as well, but not on Lineage OS 14.1 (Nougat).
+<br>&rarr; Only for klte & kltekor.
+<br>&rarr; The xda thread will be active until a future Lineage OS update break this version of Kernel.<br>
+
+<br><strong>How-to</strong>
+<br>&rarr; Download kernel from the provided link and flash in recovery.<br>
+
+<br><strong>Downloads</strong>
+<br><a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Pie/kernel-release/SmartPack-Kernel-klte.zip?raw=true">klte</a>
+<br><a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx/blob/Pie/kernel-release/SmartPack-Kernel-kltekor.zip?raw=true">kltekor</a><br>
+
+<br>Click <a href="https://forum.xda-developers.com/showpost.php?p=79380519&postcount=2084" target="_blank">here</a> to read more at xda-developers.com.</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">April 10, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 

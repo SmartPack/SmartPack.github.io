@@ -24,18 +24,18 @@ permalink: /sgs5/
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Voltage Control
-* CPU overclocked up to 2.84 GHz (only Oreo)
+* CPU overclocked up to 2.84 GHz
 * 268 MHz CPU underclocked frequency cycle
 * Additional 27 MHz GPU frequency step (idle frequency)
-* CPU Input Boost (enabled by default, requires SmartPack-Kernel-Manager)
+* CPU Input Boost from Sultan's OnePlus One Kernel
 * CPU Freq Gov: INTELLIDEMAND, INTELLIACTIVE, SMARTMAX, LIONHEART, NIGHTMARE, ADAPTIVE, ALUCARD & ZZMOVE
-* CPU hotplugs: Lazyplug, Alucard, and mako hotplug
+* CPU hotplugs: Lazyplug, Alucard, and Mako hotplug
 * Full control over AC, USB and Wireless charging rate in SmartPack-Kernel Manager (Default charging rates: AC: 1800 mA; USB 700 mA; Wireless: 900 mA)
 * Boeffla Sound to control Headphone (including per-channel gain in SmartPack-Kernel Manager) & Speaker
 * Intelli thermal v2.0 
 * Adreno Idler
 * IO schedulers: FIOPS, SIO, VR, ZEN, FIFO, TRIPNDROID.
-* TCP congestion algorithms: Westwood, reno, cubic etc.
+* Enabled a bunch of advanced TCP congestion algorithms (default: Westwood)
 * Dynamic sync control 2.0
 * Powersuspend
 * Boeffla Generic Wakelock Blocker

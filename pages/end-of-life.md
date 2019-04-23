@@ -90,12 +90,21 @@ permalink: /end-of-life/
 
 <h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S5 LTE-A (Lineage-OS 14.1)</h3>
 
+<h4>Supported devices</h4>
+* lentislte: SM-G906S/K/L
+* kccat6: SM-G901F
+
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-los-14-1-t3686079" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_apq8084" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <hr>
 
 <h3 style="color: blue">SmartPack-Kernel for Samsung Galaxy S4 (Lineage-OS 14.1)</h3>
+
+<h4>Supported devices</h4>
+* ja3g: GT-I9500
+* jalteskt: SHV-E300S/K
+* jaltelgt: SHV-E300L
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s4/i9500-orig-develop/kernel-smartpack-project-lineage-os-14-t3590858" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_ja3g" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
@@ -104,12 +113,21 @@ permalink: /end-of-life/
 
 <h3 style="color: blue">SmartPack-Lite Kernel for Samsung Galaxy S5 (Lineage-OS 14.1)</h3>
 
+<h4>Supported devices</h4>
+* klte: SM-G900F, SM-G900V, SM-S902L
+* kltekor: SM-G900K/L/S
+* kltedv: SM-G900P/I
+* klteduos: SM-G900FD, SM-G900MD
+
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-smartpack-lite-t3579714" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
 
 <hr>
 
 <h3 style="color: blue">Boeffla-Kernel (unofficial) for Korean Galaxy S5 (Lineage-OS 14.1)</h3>
+
+<h4>Supported devices</h4>
+* kltekor: SM-G900K/L/S
 
 ### Important links
 <p><a href="https://forum.xda-developers.com/galaxy-s5/development/boeffla-kernel-unofficial-aosp-7-x-x-t3616463" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>

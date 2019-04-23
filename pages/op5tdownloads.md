@@ -18,20 +18,20 @@ permalink: /op5t/
 <h3 style="color: blue">Features</h3>
 
 * Build from stock Oxygen OS <a href="https://github.com/OnePlusOSS/android_kernel_oneplus_msm8998/" target="_blank">source code</a>
+* Latest Linux 4.4 subversion's and CAF tags fully merged
 * Built using latest GCC 8.x toolchain
 * Up-to-date with the latest stable Linux and CAF tag
 * Anykernel base for the best compatibility
 * Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
-* CPU Input Boost
+* CPU Input Boost, Devfreq boost, and Simple_LMK from Sultan's Pixel Kernel
 * Dynamic Stune Boost
-* Devfreq Boost
-* Simple LMK
-* K-Lapse Support
+* K-Lapse, a kernel level live-display module to control screen color, brightness and more
+* KCAL v2 advanced color control interface
 * CPU Freq Gov: Blu_active, Alucard and Impulse
 * Adreno Boost for msm-adreno-tz (disabled by default)
 * IO schedulers: Maple, Zen, Fiops, SIO & SIO Plus
-* Advanced TCP congestion algorithms (default: Westwood)
+* Enabled a bunch of advanced TCP congestion algorithms (default: Westwood)
 * Real-time charging status in SmartPack-Kernel Manager
 * Boeffla Sound to control Headphone, Earpiece (calls) and Microphone (calls)
 * Boeffla Generic Wakelock Blocker
@@ -40,7 +40,6 @@ permalink: /op5t/
 * USB fast charging
 * High Brightness Mode
 * Notification LED Control (Blink/Fade/Intensity) 
-* KCAL v2 advanced color control interface
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * FSync on/off support
 * PrintK_logging on/off support

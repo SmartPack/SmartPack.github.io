@@ -25,6 +25,7 @@ permalink: /spkm/
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
 
 * CPU Input Boost (Sultanxda).
+* Devfreq Boost (Sultanxda).
 * Simple MSM Thermal (Sultanxda).
 * Advanced Control for Fast Charge (yank555.lu) & Boeffla Charge Level Interface (Lord Boeffla).
 * Boeffla Sound Control (Lord Boeffla).
@@ -35,7 +36,7 @@ permalink: /spkm/
 * MSM Sleeper (flar2).
 * Boeffla Wakelock Blocker (Lord Boeffla).
 * Display Backlight Control (Min & Max).
-* SELinux Switch.
+* Options to control SELinux and android's native Doze mode.
 * WireGuard version information.
 * Auto-updates (in About page).
 * Real-time Charging Status.
