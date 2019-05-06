@@ -16,9 +16,10 @@ permalink: /spkm/
 
 <h3 style="color: red">Further, before using SmartPack-Kernel Manager, please be aware that,</h3>
 
-* This app still retains almost all the donation requests by Grarak. Those are, however, intended to express my respect for his original work. Please be aware that this app is no way supported by him and buying his official donated version will <strong>NOT</strong> unlock any hidden features in this app.
-* This app requires <strong>ROOT ACCESS</strong>.
+* This app requires ROOT ACCESS.
 * Most of the features available in this app require kernel-level support.
+* You may unlock the hidden features of this app by purchasing <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore (from v7.13 onwards)
+* Although this app is no way supported by Grarak, buying his <a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutordonate" target="_blank">official donated version</a> will also unlock the hidden features in this app (from v7.13 onwards).
 
 <h3 style="color: blue">Added features over official KA</h3>
 
@@ -57,9 +58,9 @@ permalink: /spkm/
 
 <h3 style="color: blue">Donations</h3>
 
-<p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me as it will help me to continue my projects more active, though it is not at all necessary.</tab1></p>
+<p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me (either via <a href="https://www.paypal.me/sunilpaulmathew" target="_blank">PayPal</a>, or by purchasing the <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore) as it is helpful to continue my projects more active, although it is not at all necessary.</tab1></p>
 
-<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
+<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a></p>
 
 <hr>
 

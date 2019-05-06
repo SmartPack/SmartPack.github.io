@@ -57,9 +57,9 @@ permalink: /sgs5/
 
 <h3 style="color: blue">Donations</h3>
 
-<p style="text-align: justify;"><tab1>If you like to appreciate my work, please consider donating to me as it will help me to continue my projects more active, though it is not at all necessary.</tab1></p>
+<p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me (either via <a href="https://www.paypal.me/sunilpaulmathew" target="_blank">PayPal</a>, or by purchasing the <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore) as it is helpful to continue my projects more active, although it is not at all necessary.</tab1></p>
 
-<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a></p>
+<p><a href="https://www.paypal.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" width="50" height="50" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a></p>
 
 <hr>
 
