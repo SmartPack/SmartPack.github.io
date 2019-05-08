@@ -10,7 +10,17 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">May 05, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
+<p style="text-align: justify;"><tab1><a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a>, a donation app to support the development of SmartPack projects is launched in Google PlayStore. Please purchase this app if you want to support the development of SmartPack Projects. I'll really appreciate it!<br>
+<br><strong>Although this app doesn't do anything by itself, it unlocks some hidden features in SmartPack-Kernel Manager</strong>.<br>
+
+<br>For more details, please visit <a href="https://smartpack.github.io/donation/">here</a>.</tab1></p>
+
+<a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a>
+
+<hr>
 
 <h3 style="text-align: left">April 21, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
