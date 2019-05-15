@@ -22,7 +22,7 @@ permalink: /sgs5/
 * Build from stock Lineage OS <a href="https://github.com/LineageOS/android_kernel_samsung_msm8974" target="_blank">source code</a>
 * Built using latest (GCC 8.x) toolchain
 * Anykernel base for the best compatibility
-* Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
+* Full compatibility with <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * CPU Voltage Control
 * CPU overclocked up to 2.84 GHz
 * 268 MHz CPU underclocked frequency cycle

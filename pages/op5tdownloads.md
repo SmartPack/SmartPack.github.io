@@ -19,12 +19,12 @@ permalink: /op5t/
 
 * Build from stock Oxygen OS <a href="https://github.com/OnePlusOSS/android_kernel_oneplus_msm8998/" target="_blank">source code</a>
 * Latest Linux 4.4 subversion's and CAF tags fully merged
-* Built using latest GCC 8.x toolchain
+* Built using latest GCC 9.x toolchain
 * Up-to-date with the latest stable Linux and CAF tag
 * Anykernel base for the best compatibility
-* Kernel tweaking app recommend: <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
+* Full compatibility with <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> (<strong>please note</strong>: official Kernel Adiutor is NOT fully compatible with this kernel)
 * Wireguard support
-* CPU Input Boost, Devfreq boost, and Simple_LMK from Sultan's Pixel Kernel
+* CPU Input Boost, Devfreq boost, and Simple_LMK from Sultan's wahoo Kernel
 * Dynamic Stune Boost
 * K-Lapse, a kernel level live-display module to control screen color, brightness and more
 * KCAL v2 advanced color control interface
@@ -42,7 +42,7 @@ permalink: /op5t/
 * Notification LED Control (Blink/Fade/Intensity) 
 * SELinux "Enforcing" by default (but can be switched to "Permissive" in SmartPack-Kernel Manager)
 * FSync on/off support
-* PrintK_logging on/off support
+* PrintK logging on/off support
 * CRC on/off support (disabled by default)
 * a lot more...
 
