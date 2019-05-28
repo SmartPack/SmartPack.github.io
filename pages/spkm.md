@@ -25,6 +25,7 @@ permalink: /spkm/
 
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
 
+* Option to flash recovery zip files while running Android OS, that is even without rebooting to custom recovery.
 * CPU Input Boost (Sultanxda).
 * Devfreq Boost (Sultanxda).
 * Simple MSM Thermal (Sultanxda).
@@ -43,7 +44,7 @@ permalink: /spkm/
 * Real-time Charging Status.
 * RAM & Swap Status
 * LED Blink/Fade support.
-* Device & android version specific kernel download & Auto flashing for supported devices.
+* Auto kernel updates (download and auto-flash proper kernel in few clicks) for SmartPack-Kernel.
 * Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager).
 * Also compatible with stock & other kernels
 * And much more…

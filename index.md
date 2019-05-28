@@ -23,7 +23,7 @@ title: Home
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
-<h3 style="text-align: left">May 05, 2019</h3>
+<h3 style="text-align: left">May 27, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
-<p style="text-align: justify;"><tab1>SmartPack Donation Package, a donation app to support the development of SmartPack projects is launched in Google PlayStore (<a href="{{ site.github.url }}/announcements">Read More</a>).</tab1></p>
+<p style="text-align: justify;"><tab1>Smart Flasher, a simple app aimed to make flashing recovery zips much easier, is launched in Google PlayStore (<a href="{{ site.github.url }}/announcements">Read More</a>).</tab1></p>
