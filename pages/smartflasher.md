@@ -20,6 +20,8 @@ permalink: /smartflasher/
 
 <p><a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a></p>
 
+<p><a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true">Download APK</a></p>
+
 <hr>
 
 <h3 style="color: red">Requirements</h3>
@@ -34,7 +36,10 @@ permalink: /smartflasher/
 <p style="text-align: justify"><tab1><strong>Smart Flasher</strong> is a very simple and basic app, even without a settings menu and themes, which can do the following things.</tab1></p>
 
 * Flashing recovery zip files (such as a custom kernel, a magisk module, etc.) of up to 100 MB while running Android OS, that is, even without rebooting into custom recovery.
+* Back-up boot partition of a supported device.
+* Flash a boot partition '.img' on a supported device.
 * Doing basic tasks such as
+  * Display last flash log after successful flashing
   * Dispaly Kernel version
   * Turn off your device
   * Reboot (Normal, Recovery & Boot-loader) your device
@@ -45,7 +50,7 @@ permalink: /smartflasher/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartFlasher/master/change-logs.md" target="_blank">Change-logs</a>
+* <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartFlasher/master/change-logs.md" target="_blank">Change-logs</a> ! <a href="https://forum.xda-developers.com/android/apps-games/app-smart-flasher-t3934438" target="_blank">xda-developers.com</a>
 
 <hr>
 
