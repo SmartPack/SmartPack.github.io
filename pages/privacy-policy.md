@@ -17,7 +17,3 @@ permalink: /privacy-policy/
 <h3 style="color: blue">Contact developer</h3>
 
 <p style="text-align: justify;"><tab1>If you have any questions about this Privacy Policy, please don't hesitate to contact the developer at <a href="mailto:sunil.kde@gmail.com">sunil.kde@gmail.com</a></tab1></p>
-
-
-
-

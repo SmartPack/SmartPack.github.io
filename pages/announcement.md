@@ -10,6 +10,13 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">October 24, 2019</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>Due to personal and professional reasons, I am not in a position to continue my Kernel projects anymore. As a result, I am forced to drop my existing kernel (SmartPack-Kernel) for OnePlus 5/5T. Extremely sorry for the inconveniences.<br><br><strong>Please note</strong>: My app projects (<a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a> & <a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a>) will be still maintained and receives timely updates.</tab1></p>
+
+<hr>
+
 <h3 style="text-align: left">June 24, 2019</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 

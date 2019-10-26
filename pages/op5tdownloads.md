@@ -10,6 +10,8 @@ permalink: /op5t/
 
 <h2 style="color: red; text-align: center">OnePlus 5/5T</h2>
 
+<h3 style="color: blue; text-align: center">Please note: This project is now End-of-Life (EOL)</h3>
+
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/dumpling.png" alt="" width="147" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
@@ -66,8 +68,12 @@ permalink: /op5t/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p>! <strong>SmartPack-Kernel for OnePlus 5/5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Pie/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Pie)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Oreo)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>
-
 <p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
+
+<hr>
+
+<h3 style="color: red">End-of-Life (EOL) Kernels</h3>
+
+<p>! <strong>SmartPack-Kernel for OnePlus 5/5T</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank">Source code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank">Change-logs</a> !</p>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Pie/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Pie)</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T/blob/Oreo/kernel-release/SmartPack-Kernel-dumpling.zip?raw=true">Latest version (Oreo)</a> ! <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank">All versions</a>

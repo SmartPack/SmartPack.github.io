@@ -10,7 +10,7 @@ permalink: /disclaimer/
 
 <h2 style="color: blue">DISCLAIMER</h2>
 
-<h3 style="color: red; text-align: justify">Please read this before download & flash anything from this site!</h3>
+<h3 style="color: red; text-align: justify">Please read this before download & use anything from this site!</h3>
 
 <p><strong>#include "std_disclaimer.h"</strong><br>
 <br>/*
