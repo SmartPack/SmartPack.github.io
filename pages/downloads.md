@@ -13,6 +13,9 @@ permalink: /downloads/
 <p>! <strong><a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a></strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
 * <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
 
+<p>! <strong><a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a></strong> ! <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartFlasher/wiki" target="_blank">Documentation</a> ! <a href="https://github.com/SmartPack/SmartFlasher/raw/master/change-logs.md" target="_blank">Change-logs</a> !</p>
+* <a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank">Get-it from PlayStore</a> ! <a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true" target="_blank">Get APK</a> !
+
 <hr>
 
 <h2 style="color: red">Samsung Galaxy S5</h2>
