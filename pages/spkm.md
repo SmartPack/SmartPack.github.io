@@ -42,10 +42,9 @@ permalink: /spkm/
 * WireGuard version information.
 * Auto-updates (in About page).
 * Real-time Charging Status.
-* RAM & Swap Status
+* RAM & Swap Status.
 * LED Blink/Fade support.
-* Auto kernel updates (download and auto-flash proper kernel in few clicks) for SmartPack-Kernel.
-* Dedicated Frequently Asked Questions (FAQ) section for SmartPack-Kernel (Manager).
+* Dedicated Frequently Asked Questions (FAQ) section.
 * Also compatible with stock & other kernels
 * And much more…
 
