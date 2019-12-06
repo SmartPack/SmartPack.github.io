@@ -19,4 +19,4 @@ permalink: /donation/
 <p><strong>PayPal Donation url</strong>: <a href="https://www.paypal.me/sunilpaulmathew" target="_blank">https://www.paypal.me/sunilpaulmathew</a><br><strong>PayPal Donation  email</strong>: <a href="mailto:menacherry@af.czu.cz">menacherry@af.czu.cz</a><br><strong>Ko-fi Donation url</strong>: <a href="https://ko-fi.com/sunilpaulmathew" target="_blank">https://ko-fi.com/sunilpaulmathew</a>
 </p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a></p>

@@ -42,9 +42,7 @@ permalink: /smartflasher/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a></p>
-
-<p><a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true">Download APK</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <hr>
 

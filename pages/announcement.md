@@ -33,7 +33,7 @@ permalink: /announcements/
 <br>&rarr; Doing basic tasks such as Turning off & Rebooting (Normal, Recovery & Boot-loader) your device, Wiping Cache & Data partitions, etc.<br>
 <br>For more details, please visit <a href="{{ site.github.url }}/smartflasher/">here</a>.</tab1></p>
 
-<a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a>
 
 <hr>
 
@@ -45,7 +45,7 @@ permalink: /announcements/
 
 <br>For more details, please visit <a href="{{ site.github.url }}/donation/">here</a>.</tab1></p>
 
-<a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="http://developer.android.com/images/brand/en_generic_rgb_wo_60.png" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a>
 
 <hr>
 
