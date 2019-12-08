@@ -10,11 +10,13 @@ permalink: /downloads/
 
 <h2 style="color: red">General Downloads</h2>
 
-<p>! <strong><a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a></strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
+<p><strong>SmartPack-Kernel Manager</strong></p>
 
-<p>! <strong><a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a></strong> ! <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartFlasher/wiki" target="_blank">Documentation</a> ! <a href="https://github.com/SmartPack/SmartFlasher/raw/master/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank">Get-it from PlayStore</a> ! <a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true" target="_blank">Get APK</a> !
+<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+
+<p><strong>Smart Flasher</strong></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartFlasher/blob/master/release/com.smartpack.smartflasher.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <hr>
 

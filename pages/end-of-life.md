@@ -19,7 +19,7 @@ permalink: /end-of-life/
 * dumpling: OnePlus 5T
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/oneplus-5t/development/kernel-smartpack-linaro-gcc-7-x-oxygen-t3832458" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/oneplus-5t/development/kernel-smartpack-linaro-gcc-7-x-oxygen-t3832458" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_OP5T" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281037" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_OP5T/Pie/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -31,7 +31,7 @@ permalink: /end-of-life/
 * Moto G 2015: osprey
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/2015-moto-g/orig-development/kernel-smartpack-linaro-gcc-7-x-lineage-t3834515" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281324" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_osprey/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/2015-moto-g/orig-development/kernel-smartpack-linaro-gcc-7-x-lineage-t3834515" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_osprey" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=281324" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_osprey/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -47,7 +47,7 @@ permalink: /end-of-life/
 * kltekdi: SCL23
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177739" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-project-kltexxx-t3564206" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177739" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Nougat/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -61,7 +61,7 @@ permalink: /end-of-life/
 * kltekdi: SCL23
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/orig-development/boeffla-kernel-unofficial-lineage-os-15-t3764497" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/orig-development/boeffla-kernel-unofficial-lineage-os-15-t3764497" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=279733" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -73,7 +73,7 @@ permalink: /end-of-life/
 * kltedcm: SC-04F
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/stock-international-rom-kltekor-t3720407" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=235738" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -86,7 +86,7 @@ permalink: /end-of-life/
 * klteduos: SM-G900FD, SM-G900MD
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-stock-t3568810" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177745" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-stock-t3568810" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://androidfilehost.com/?w=files&flid=177745" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Project_kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -97,7 +97,7 @@ permalink: /end-of-life/
 * kltekor: SM-G900K/L/S
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/linaro-7-x-ubertc-8-x-stock-kernel-t3706808" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases/latest" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" width="35" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/linaro-7-x-ubertc-8-x-stock-kernel-t3706808" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/releases/latest" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic004.png?raw=true" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/Stock-Kernel_Linaro-UBERTC_kltexxx/Oreo/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -108,7 +108,7 @@ permalink: /end-of-life/
 * kccat6: SM-G901F
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-los-14-1-t3686079" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_apq8084" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/kernel-smartpack-project-los-14-1-t3686079" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_apq8084" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -120,7 +120,7 @@ permalink: /end-of-life/
 * jaltelgt: SHV-E300L
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s4/i9500-orig-develop/kernel-smartpack-project-lineage-os-14-t3590858" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_ja3g" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s4/i9500-orig-develop/kernel-smartpack-project-lineage-os-14-t3590858" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_ja3g" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -133,7 +133,7 @@ permalink: /end-of-life/
 * klteduos: SM-G900FD, SM-G900MD
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-smartpack-lite-t3579714" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/unified-development/kernel-smartpack-lite-t3579714" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Project_kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 
@@ -143,4 +143,4 @@ permalink: /end-of-life/
 * kltekor: SM-G900K/L/S
 
 ### Important links
-<p><a href="https://forum.xda-developers.com/galaxy-s5/development/boeffla-kernel-unofficial-aosp-7-x-x-t3616463" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" width="45" height="45" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="35" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/galaxy-s5/development/boeffla-kernel-unofficial-aosp-7-x-x-t3616463" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/Boeffla-Kernel-unofficial-kltexxx" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a></p>

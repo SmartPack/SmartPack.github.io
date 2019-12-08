@@ -21,6 +21,10 @@ permalink: /spkm/
 * You may unlock the hidden features of this app by purchasing <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore (from v7.13 onwards)
 * Although this app is no way supported by Grarak, buying his <a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutordonate" target="_blank">official donated version</a> will also unlock the hidden features in this app (from v7.13 onwards).
 
+<h3 style="color: blue">Downloads</h3>
+
+<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+
 <h3 style="color: blue">Added features over official KA</h3>
 
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
@@ -64,7 +68,6 @@ permalink: /spkm/
 
 <hr>
 
-<h3 style="color: blue">Downloads</h3>
+<h3 style="color: blue">Important Links</h3>
 
-<p>! <strong>SmartPack-Kernel Manager</strong> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> !</p>
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank">Latest version</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases/" target="_blank">All versions</a> !
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a>
