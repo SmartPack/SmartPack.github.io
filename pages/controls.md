@@ -13,6 +13,10 @@ permalink: /spkm/customcontrols/
 <h3 style="color: blue">DISCLAIMER</h3>
 <p style="color: red; text-align: justify"><b>This feature is too powerful to mess your device. If you are unsure about something, better do not play with it. And as always,<br><br>**USE AT YOUR OWN RISK**</b></p>
 
+<p style="text-align: justify">Currently, the custom controls feature on SmrtPack-Kernel Manager offeres the creation of two different types of controllers, and are</p>
+* a classical Switch item for boolean sysfs paths having values 0 or N (disable) and 1 or Y (enable)
+* a more generalised Input-type item, which should work with any sysfs path having any value
+
 <h3 style="color: blue">How to add a controller</h3>
 
 <p style="text-align: justify">There are two different ways to create a custom controller on SmrtPack-Kernel Manager, and are</p>
