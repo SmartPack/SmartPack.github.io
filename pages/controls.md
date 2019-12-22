@@ -29,4 +29,4 @@ permalink: /spkm/customcontrols/
 
 <h3 style="color: blue">How to remove a controller</h3>
 
-<p style="text-align: justify">Go to <b>/sdcard/SP/controls/switch/</b> (for removing a switch item) or <b>/sdcard/SP/controls/generic/</b> (for removing a generic input item) and simply delete the respective file.</p>
+<p style="text-align: justify">Click the Pop-Up menu on the right bottom corner of each controller, and select the delete option. Alternatively, go to <b>/sdcard/SP/controls/switch/</b> (for removing a switch item) or <b>/sdcard/SP/controls/generic/</b> (for removing a generic input item) and simply delete the respective file.</p>
