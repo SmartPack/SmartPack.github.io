@@ -31,7 +31,7 @@ permalink: /smartflasher/
 
 <h3 style="color: blue">Features</h3>
 
-<p style="text-align: justify"><tab1><strong>Smart Flasher</strong> is a very simple and basic app, even without a settings menu and themes, which can do the following things.</tab1></p>
+<p style="text-align: justify"><tab1><strong>Smart Flasher</strong> is a very simple and basic app, even without a settings menu, which can do the following things.</tab1></p>
 
 * Flashing recovery zip files (such as a custom kernel, a magisk module, etc.) of up to 100 MB while running Android OS, that is, even without rebooting into custom recovery.
 * Back-up boot and recovery partition of a supported device.
