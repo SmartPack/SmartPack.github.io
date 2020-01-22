@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Kernel_Name",
+    "version": "Kernel_version",
+    "link": "download_link",
+    "changelog_url": "changelog_texts_or_url",
+    "sha1": "sha1"
+  },
+  "support": {
+    "link": "support_link",
+    "donation": "donation_link"
+  }
+}
