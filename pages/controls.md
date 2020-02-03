@@ -23,7 +23,7 @@ permalink: /spkm/customcontrols/
 * <i>For normal users</i>: Open the app, move to <b>Custom Controls</b>, click the "<b>plus</b>" icon, select the desired option and simply pick the sysfs path from <b>/sys</b> (or any other) folder using a supported <b>Root File Manager</b>. The only need to get this way working is the availability of a supported <b>Root File Manager</b> installed on the device. Some of the supported File Managers includes
   * <b><a href="https://play.google.com/store/apps/details?id=fm.clean.pro" target="_blank">File Manger for Superusers</a></b>
   * <b><a href="https://play.google.com/store/apps/details?id=com.jrummy.root.browserfree&hl=en" target="_blank">File Explorer Root Browser</a></b>
-* <i>For advanced users</i>: Save the sysfs path you wish to add into a text file and place inside <b>/sdcard/SP/controls/switch/</b> (for creating a switch item) or <b>/sdcard/SP/controls/generic/</b> (for creating a generic input item). The text file (with or without the extension "<b>.txt</b>") might be saved by any name.
+* <i>For advanced users</i>: Save the sysfs path you wish to add into a text file and place inside <b>/sdcard/SP/controls/switch/</b> (for creating a switch item) or <b>/sdcard/SP/controls/generic/</b> (for creating a generic input item). The text file (without the "<b>.txt</b>" extension) might be saved by any name.
 
 <hr>
 
