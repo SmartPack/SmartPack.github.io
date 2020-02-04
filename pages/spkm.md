@@ -10,7 +10,7 @@ permalink: /spkm/
 
 <h2 style="color: red; text-align: center">SmartPack-Kernel Manager</h2>
 
-<p style="text-align: center"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic008.jpg?raw=true" alt="" width="422" height="500" /></p>
+<p style="text-align: center"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic008.png?raw=true" alt="" width="512" height="250" /></p>
 
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
 
@@ -23,7 +23,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <h3 style="color: blue">Added features over official KA</h3>
 
@@ -54,7 +54,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">How-to</h3>
 
-<p>Download and manually install the latest version of app from the below link.</p>
+<p>Get It from Play-store or Download and manually install the latest version of app from the download section.</p>
 
 <p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/android/apps-games/app-smartpack-kernel-manager-t3854717" target="_blank">xda-developers.com</a></i>)</p>
 
