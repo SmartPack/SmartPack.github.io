@@ -20,7 +20,19 @@ permalink: /downloads/
 
 <p><strong>Script Manager</strong></p>
 
-<p><a href="https://github.com/SmartPack/ScriptManager/blob/master/release/com.smartpack.scriptmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.scriptmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/ScriptManager/blob/master/release/com.smartpack.scriptmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+
+<hr>
+
+<p><strong>Package Manager</strong></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/PackageManager/blob/master/release/com.smartpack.packagemanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+
+<hr>
+
+<p><strong>Screen Color Control</strong></p>
+
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.colorcontrol" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/ScreenColorControl/blob/master/release/com.smartpack.colorcontrol.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <hr>
 
