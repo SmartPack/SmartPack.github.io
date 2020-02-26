@@ -14,6 +14,8 @@ title: Home
 * <a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a>
 * <a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a>
 * <a href="{{ site.github.url }}/scriptmanager/">Script Manager</a>
+* <a href="{{ site.github.url }}/pm/">Package Manager</a>
+* <a href="{{ site.github.url }}/scc/">Screen Color Control</a>
 
 <h3><a href="{{ site.github.url }}/end-of-life/">EOL Projects</a></h3>
 
