@@ -33,6 +33,24 @@ permalink: /active-projects/
 <p><a href="{{ site.github.url }}/scriptmanager/">(Read more)</a></p>
 
 ### Important links
-<p><a href="https://github.com/SmartPack/ScriptManager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/SmartPack/ScriptManager/blob/master/release/com.smartpack.scriptmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/ScriptManager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
+<p><a href="https://github.com/SmartPack/ScriptManager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.scriptmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/ScriptManager/blob/master/release/com.smartpack.scriptmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/ScriptManager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
+
+<hr>
+
+<h3 style="color: blue">Package Manager</h3>
+
+<p><a href="{{ site.github.url }}/pm/">(Read more)</a></p>
+
+### Important links
+<p><a href="https://github.com/SmartPack/PackageManager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/PackageManager/blob/master/release/com.smartpack.packagemanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/PackageManager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
+
+<hr>
+
+<h3 style="color: blue">Screen Color Control</h3>
+
+<p><a href="{{ site.github.url }}/scc/">(Read more)</a></p>
+
+### Important links
+<p><a href="https://github.com/SmartPack/ScreenColorControl/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.colorcontrol" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/ScreenColorControl/blob/master/release/com.smartpack.colorcontrol.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/ScreenColorControl/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
