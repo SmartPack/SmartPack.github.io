@@ -29,15 +29,15 @@ permalink: /pm/
 
 <h3 style="color: blue">Features</h3>
 
-<p style="text-align: justify"><tab1><strong>Package Manager</strong> is a simple and very basic app, even without a settings menu, which can do the following things.</tab1></p>
+<p style="text-align: justify"><tab1><strong>Package Manager</strong> is a simple and very basic app, which can do the following things.</tab1></p>
 
 * Offer a beautiful list view of System and User Apps, together or separately.
 * Helps to do basic tasks such as Open app, show App info, visit PlayStore page, uninstall (User apps), etc.
 * Do advanced tasks such (need Root access)
-  * Uninstall system apps (de-bloating)
+  * Uninstall a single system app/batch of system apps (de-bloating)
   * Export (to SDCard) and Share an app
-  * Disable or Enable apps
-  * Back up individual app data 
+  * Disable or Enable a single app/batch of apps
+  * Back up individual app data of an app/batch of apps 
   * Restore individual app data (Work-in-progress)
 
 <hr>

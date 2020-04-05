@@ -33,6 +33,7 @@ permalink: /scc/
 <p style="text-align: justify"><tab1><strong>Screen Color Control</strong> is a simple and very basic app, even without a settings menu, which can do the following things.</tab1></p>
 
 * Offer advanced control over the screen color of devices having KCAL/K-lapse support.
+* Allows controlling K-lapse very quickly and easily via. a Quick Tile.
 * Allows to create, import apply, and easily share color control profiles.
 
 <hr>

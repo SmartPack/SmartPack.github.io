@@ -15,7 +15,7 @@ permalink: /sgs5/
 <p style="text-align: center;"><img src="https://wiki.lineageos.org/images/devices/klte.png" alt="" width="154" height="300" /></p>
 
 <h3 style="color: blue">Compatibility</h3>
-<p style="text-align: justify;">This kernel version is only meant to work on LineageOS (14.1/15.1/16) and nothing else (Please note: older versions (for Marshmallow) are discontinued, though download links are still available for anyone interested). This kernel may work on other LineageOS based Nouagt/Oreo/Pie ROMs as well (Please try at your own risk).</p>
+<p style="text-align: justify;">These kernels are only meant to work on LineageOS (14.1/15.1/16) and Samsung stock ROM (Marshmallow).</p>
 
 <h3 style="color: blue">Features</h3>
 

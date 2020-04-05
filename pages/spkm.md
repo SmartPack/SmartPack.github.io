@@ -10,16 +10,18 @@ permalink: /spkm/
 
 <h2 style="color: red; text-align: center">SmartPack-Kernel Manager</h2>
 
-<p style="text-align: center"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic008.png?raw=true" alt="" width="512" height="250" /></p>
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/banner.png" alt="" width="500" height="200" /></p>
 
-<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a modified version of official Kernel Adiutor, which is originally developed by Willi Ye aka Grarak. All the credits goes to the original developer. SmartPack-Kernel Manager has a set of additional features that are not yet implemented into the official KA.</tab1></p>
+<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a heavily modified version of Kernel Adiutor developed by Willi Ye. All the credits go to the original developer, not only for his hard work on Kernel Adiutor, but also for being open to open-source community.</tab1></p>
 
 <h3 style="color: red">Further, before using SmartPack-Kernel Manager, please be aware that,</h3>
 
 * This app requires ROOT ACCESS.
+* This app needs BusyBox to be installed (especially, ‘unzip’ & ‘mke2fs’ binaries for auto-flashing).
 * Most of the features available in this app require kernel-level support.
-* You may unlock the hidden features of this app by purchasing <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore (from v7.13 onwards)
-* Although this app is no way supported by Grarak, buying his <a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutordonate" target="_blank">official donated version</a> will also unlock the hidden features in this app (from v7.13 onwards).
+* You may unlock the hidden features of this app by purchasing <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore.
+* Although this app is no way supported by Grarak, buying his <a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutordonate" target="_blank">official donated version</a> will also unlock the hidden features in this app.
+* This app is not intended to be the most good-looking app in the market, but the most powerful and feature rich one in its category.
 
 <h3 style="color: blue">Downloads</h3>
 
@@ -27,30 +29,27 @@ permalink: /spkm/
 
 <h3 style="color: blue">Added features over official KA</h3>
 
-<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is significantly modified to meet the needs of SmartPack-Kernel and contains a bunch of useful features (specifically for supported devices) over official KA, and are</tab1></p>
+<p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> offers more control than any other apps available in the market, including the paid ones. Some of the key features of SmartPack-Kernel Manager include, but aren't limited to</tab1></p>
 
-* Option to flash recovery zip files while running Android OS, that is even without rebooting to custom recovery.
-* CPU Input Boost (Sultanxda).
-* Devfreq Boost (Sultanxda).
-* Simple MSM Thermal (Sultanxda).
-* Advanced Control for Fast Charge (yank555.lu) & Boeffla Charge Level Interface (Lord Boeffla).
-* Boeffla Sound Control (Lord Boeffla).
-* Significantly different Faux Sound implementation.
-* In-built Spectrum Support (frap129).
-* Adreno Boost (flar2).
-* K-Lapse Support (tanish2k09)
-* MSM Sleeper (flar2).
-* Boeffla Wakelock Blocker (Lord Boeffla).
-* Display Backlight Control (Min & Max).
-* Options to control SELinux and android's native Doze mode.
-* WireGuard version information.
-* Auto-updates (in About page).
-* Real-time Charging Status.
-* RAM & Swap Status.
-* LED Blink/Fade support.
-* Dedicated Frequently Asked Questions (FAQ) section.
-* Also compatible with stock & other kernels
-* And much more…
+* Almost all the features available in Kernel Adiutor.
+* An option to flash recovery zip files while running Android OS.
+* A simple and user-friendly Kernel downloader, which allows kernel developers to add OTA support for their users (<a href="https://smartpack.github.io/kerneldownloads/" target="_blank">Documentation</a>).
+* A powerful Custom Controller, which allows power users to add their own controller to any available kernel parameter (<a href="https://smartpack.github.io/spkm/customcontrols/" target="_blank">Documentation</a>).
+* Backup/restore and flash boot and recovery images.
+* Create, edit, share and execute shell scripts.
+* Spectrum support in-built.
+* Usual kernel controls, such as
+  * CPU & GPU (Frequency, Governor, Boost, Input Boost, etc.)
+  * Wake/Sleep Gestures (dt2w, s2w, etc.)
+  * I/O Scheduler
+  * Virtual Memory
+  * Screen and K-Lapse
+  * Wakelocks (including Boeffla's generic driver)
+  * Battery
+  * Sound (Boeffla, Flar, Franco, Faux, etc)
+* Real-time charging status.
+* Dark (default) and light themes.
+* Compatible with any devices and kernels, and lot more...
 
 <h3 style="color: blue">How-to</h3>
 

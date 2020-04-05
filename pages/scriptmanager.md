@@ -30,7 +30,7 @@ permalink: /scriptmanager/
 
 <h3 style="color: blue">Features</h3>
 
-<p style="text-align: justify"><tab1><strong>Script Manager</strong> is a simple and very basic app, without a settings menu and additional themes, which can do the following things.</tab1></p>
+<p style="text-align: justify"><tab1><strong>Script Manager</strong> is a simple and very basic app, which can do the following things.</tab1></p>
 
 * Create, edit, execute, and easily manage shell scripts.
 * Import shell scripts from sdcard.
