@@ -44,6 +44,12 @@ permalink: /scc/
 
 <hr>
 
+<h3 style="color: blue">Support</h3>
+
+<a href="https://t.me/smartpack_kmanager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" width="50" height="50" /></a>
+
+<hr>
+
 <h3 style="color: blue">Donations</h3>
 
 <p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me (either via <a href="https://www.paypal.me/menacherry" target="_blank">PayPal</a> or <a href="https://ko-fi.com/sunilpaulmathew" target="_blank">Ko-fi</a>, or by purchasing the <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore) as it is helpful to continue my projects more active, although it is not at all necessary.</tab1></p>

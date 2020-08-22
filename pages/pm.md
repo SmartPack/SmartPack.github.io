@@ -25,6 +25,7 @@ permalink: /pm/
 <h3 style="color: blue">Downloads</h3>
 
 <p><a href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/PackageManager/blob/master/release/com.smartpack.packagemanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+
 <hr>
 
 <h3 style="color: blue">Features</h3>
@@ -39,6 +40,12 @@ permalink: /pm/
   * Disable or Enable a single app/batch of apps
   * Back up individual app data of an app/batch of apps 
   * Restore individual app data (Work-in-progress)
+
+<hr>
+
+<h3 style="color: blue">Support</h3>
+
+<a href="https://t.me/smartpack_kmanager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" width="50" height="50" /></a>
 
 <hr>
 

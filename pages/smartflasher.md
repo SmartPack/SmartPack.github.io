@@ -48,7 +48,13 @@ permalink: /smartflasher/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartFlasher/master/change-logs.md" target="_blank">Change-logs</a> ! <a href="https://forum.xda-developers.com/android/apps-games/app-smart-flasher-t3934438" target="_blank">xda-developers.com</a>
+* <a href="https://github.com/SmartPack/SmartFlasher/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartFlasher/master/change-logs.md" target="_blank">Change-logs</a>
+
+<hr>
+
+<h3 style="color: blue">Support</h3>
+
+<a href="https://t.me/smartpack_kmanager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" width="50" height="50" /></a>
 
 <hr>
 

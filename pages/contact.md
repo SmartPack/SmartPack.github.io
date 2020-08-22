@@ -12,7 +12,7 @@ permalink: /contact/
 
 <p style="text-align: justify;"><tab1>Interested in my projects? Want to report bugs or have some suggestions? Like to have a special feature in one of my projects? If so, don't hesitate to contact me on one of the links provided here!</tab1></p>
 
-<p><a href="https://forum.xda-developers.com/member.php?u=7060205" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://t.me/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" height="35" /></a></p>
+<p><a href="https://forum.xda-developers.com/member.php?u=7060205" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic003.png?raw=true" alt="" height="35" /></a> <a href="https://t.me/smartpack_kmanager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
 

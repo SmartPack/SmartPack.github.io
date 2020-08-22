@@ -8,8 +8,6 @@ permalink: /spkm/
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">SmartPack-Kernel Manager</h2>
-
 <p style="text-align: center"><img src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/banner.png" alt="" width="500" height="200" /></p>
 
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a heavily modified version of Kernel Adiutor developed by Willi Ye. All the credits go to the original developer, not only for his hard work on Kernel Adiutor, but also for being open to open-source community.</tab1></p>
@@ -25,7 +23,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <h3 style="color: blue">Added features over official KA</h3>
 
@@ -51,11 +49,11 @@ permalink: /spkm/
 * Dark (default) and light themes.
 * Compatible with any devices and kernels, and lot more...
 
-<h3 style="color: blue">How-to</h3>
+<hr>
 
-<p>Get It from Play-store or Download and manually install the latest version of app from the download section.</p>
+<h3 style="color: blue">Support</h3>
 
-<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/android/apps-games/app-smartpack-kernel-manager-t3854717" target="_blank">xda-developers.com</a></i>)</p>
+<a href="https://t.me/smartpack_kmanager" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic006.png?raw=true" alt="" width="50" height="50" /></a>
 
 <hr>
 
@@ -69,4 +67,4 @@ permalink: /spkm/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs</a> ! <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/wiki" target="_blank">Documentation</a>
+* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs (stable)</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/beta/change-logs.md" target="_blank">Change-logs (beta)</a>

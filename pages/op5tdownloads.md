@@ -49,12 +49,9 @@ permalink: /op5t/
 * a lot more...
 
 <h3 style="color: blue">How-to</h3>
-<p>Auto-flash from SmartPack-Kernel Manager or download from the below link &</p>
-* Go to TWRP
-* Flash Kernel
+<p>Download kernel from the below link &</p>
+* Flash using SmartPack-Kernel Manager or in TWRP
 * Reboot and enjoy
-
-<p>(<i>for more information, visit support page at <a href="https://forum.xda-developers.com/oneplus-5t/development/kernel-smartpack-linaro-gcc-7-x-oxygen-t3832458" target="_blank">xda-developers.com</a></i>)</p>
 
 <hr>
 
@@ -70,7 +67,7 @@ permalink: /op5t/
 
 <p><strong>SmartPack-Kernel Manager</strong></p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/download/com.smartpack.kernelmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <hr>
 
