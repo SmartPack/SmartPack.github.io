@@ -54,3 +54,30 @@ permalink: /active-projects/
 <p><a href="https://github.com/SmartPack/ScreenColorControl/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.colorcontrol" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/ScreenColorControl/blob/master/release/com.smartpack.colorcontrol.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> <a href="https://raw.githubusercontent.com/SmartPack/ScreenColorControl/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" height="35" /></a></p>
 
 <hr>
+
+<h3 style="color: blue">BusyBox Installer</h3>
+
+<p><a href="{{ site.github.url }}/bbi/">(Read more)</a></p>
+
+### Important links
+<p><a href="https://github.com/SmartPack/BusyBox-Installer/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/BusyBox-Installer/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a></p>
+
+<hr>
+
+<h3 style="color: blue">Kernel Profiler</h3>
+
+<p><a href="{{ site.github.url }}/kp/">(Read more)</a></p>
+
+### Important links
+<p><a href="https://github.com/SmartPack/KernelProfiler/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelprofiler" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="35" /></a> <a href="https://github.com/SmartPack/KernelProfiler/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a></p>
+
+<hr>
+
+<h3 style="color: blue">The Translator</h3>
+
+<p><a href="{{ site.github.url }}/translator/">(Read more)</a></p>
+
+### Important links
+<p><a href="https://github.com/sunilpaulmathew/Translator/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" height="35" /></a> <a href="https://github.com/sunilpaulmathew/Translator/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="35" /></a> </p>
+
+<hr>

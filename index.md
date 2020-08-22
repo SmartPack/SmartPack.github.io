@@ -16,6 +16,9 @@ title: Home
 * <a href="{{ site.github.url }}/scriptmanager/">Script Manager</a>
 * <a href="{{ site.github.url }}/pm/">Package Manager</a>
 * <a href="{{ site.github.url }}/scc/">Screen Color Control</a>
+* <a href="{{ site.github.url }}/bbi/">BusyBox Installer</a>
+* <a href="{{ site.github.url }}/kp/">Kernel Profiler</a>
+* <a href="{{ site.github.url }}/translator/">The Translator</a>
 
 <h3><a href="{{ site.github.url }}/end-of-life/">EOL Projects</a></h3>
 
