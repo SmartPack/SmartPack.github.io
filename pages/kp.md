@@ -8,8 +8,6 @@ permalink: /kp/
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">Kernel Profiler</h2>
-
 <p style="text-align: center"><img src="https://github.com/SmartPack/KernelProfiler/raw/master/banner.png" alt="" width="500" height="133" /></p>
 
 <h3 style="color: red">Requirements</h3>

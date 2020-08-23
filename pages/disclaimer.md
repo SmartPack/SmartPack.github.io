@@ -12,17 +12,17 @@ permalink: /disclaimer/
 
 <h3 style="color: red; text-align: justify">Please read this before download & use anything from this site!</h3>
 
-<p><strong>#include "std_disclaimer.h"</strong><br>
-<br>/*
- <br>*
- <br>* Your warranty is now void.
- <br>*
- <br>* Everything you are doing on your device is at your own risk.
- <br>*
- <br>* I am <strong>NOT</strong> responsible for bricked devices, dead SD cards, thermonuclear
- <br>*  war, or you getting fired because the alarm app failed. Please do some research
- <br>* if you have any concerns about these projects before using them! YOU are choosing
- <br>* to make these modifications, and if you point the finger at me for messing
- <br>* up your device, I will laugh at you.
- <br>*
- <br>*/</p>
+<p>/*
+ <br> * 
+ <br> * SmartPack projects are free and open-source: you can redistribute it and/or
+ <br> * modify it under the terms of the GNU General Public License as published by the
+ <br> * Free Software Foundation, either version 3 of the License, or (at your option)
+ <br> * any later version.
+ <br> *
+ <br> * However, please be noted that each and every utility, including apps, kernels,
+ <br> * etc., available in this webpage is distributed in the hope that it will be useful, but
+ <br> * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
+ <br> * or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
+ <br> * (http://www.gnu.org/licenses/) for more details.
+ <br> * 
+ <br> */</p>
