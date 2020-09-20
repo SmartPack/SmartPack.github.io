@@ -64,7 +64,7 @@ permalink: /sgs5/
 
 <p><strong>SmartPack-Kernel Manager</strong></p>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <hr>
 

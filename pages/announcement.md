@@ -10,6 +10,15 @@ permalink: /announcements/
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
+<h3 style="text-align: left">September 20, 2020</h3>
+<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
+
+<p style="text-align: justify;"><tab1>After a bit of struggling (<i>due to various issues with GooglePlay policy violation and consequent removal from PlayStore</i>), <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> found its way back to PlayStore. Thank You very much to all those who supported me during that crazy time. Since we are literally starting from the beginning even after hitting 100K downloads and nearly 1K reviews in PlayStore, I request all of you to take some time to review/rate the app on PlayStore. It will really help us to pickup again.</tab1></p>
+
+<a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a>
+
+<hr>
+
 <h3 style="text-align: left">February 04, 2020</h3>
 <p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
 
