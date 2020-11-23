@@ -31,6 +31,10 @@ title: Home
 * SmartPack-Kernel Samsung Galaxy S4 (Exynos 5410 variants).
 * SmartPack-Kernel Motorola Moto G 2015 (osprey).
 
+<h3>External Links</h3>
+* SmartPack-Kernel Manager reviewed by <a href="https://taimienphi.vn/download-smartpack-kernel-manager-91478">taimienphi.vn</a>.
+<tab1><a href="https://taimienphi.vn" title="download"><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a></tab1>
+
 <hr>
 
 <h2 style="color: blue; text-align: center">Announcements</h2>
