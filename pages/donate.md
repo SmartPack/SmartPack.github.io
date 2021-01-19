@@ -13,7 +13,7 @@ permalink: /donate/
 
 <br><strong>Thank you very much for purchasing SmartPack Donation Package!</strong><br><br>
 
-<br><tab1>Some hidden features in SmartPack-Kernel Manager will be now unlocked. You will be now onwards allowed to disable Ads on Package Manager and Script Manager. Also, the bottom banner Ads in BusyBox Installer and Kernel Profiler are permanently disabled. However, please be noted that this app is mainly aimed to support the development of SmartPack projects. Further, a donation doesn't give you any rights to force me to do anything. If you are not happy with this purchase, please uninstall this app immediately to secure the automatic refund from PlayStore. Since it is considered as an appreciation to my hard work, I'll not respond to personal refund requests.<br><br>
+<br><tab1>Please be noted that this application is only aimed to support the development of <a href="https://play.google.com/store/apps/dev?id=5836199813143882901" target="_blank">sunilpaulmathew</a>'s android applications. Moreover, this donation doesn't give you any rights to force the developer to do anything. If you are not happy with this purchase, please uninstall this app immediately to secure the automatic refund from PlayStore. Personal refund requests will be completely avoided.<br><br>
 
 <br>Kind Regards<br><br>
 
