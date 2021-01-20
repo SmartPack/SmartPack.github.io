@@ -14,7 +14,7 @@ permalink: /donation/
 
 <p>Currently, I can accept donations via <a href="https://liberapay.com/sunilpaulmathew/donate" target="_blank">Liberapay</a>, <a href="https://www.paypal.me/menacherry" target="_blank">PayPal</a>, <a href="https://ko-fi.com/sunilpaulmathew" target="_blank">Ko-fi</a>, or <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a>.</p>
 
-<p><a href="https://liberapay.com/sunilpaulmathew/donate" target="_blank"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="" height="60" /></a> <a href="https://www.paypal.me/menacherry" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" height="60" /></a> <a href="https://ko-fi.com/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic010.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/app/src/main/res/drawable/ic_donate.png" alt="" height="60" /></a></p>
+<p><a href="https://liberapay.com/sunilpaulmathew/donate" target="_blank"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="" height="60" /></a> <a href="https://www.paypal.me/menacherry" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic005.png?raw=true" alt="" height="60" /></a> <a href="https://ko-fi.com/sunilpaulmathew" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic010.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" height="60" /></a></p>
 
 <p><strong>Liberapay Donation url</strong>: <a href="https://liberapay.com/sunilpaulmathew/donate" target="_blank">https://liberapay.com/sunilpaulmathew/donate</a><br><strong>PayPal Donation url</strong>: <a href="https://www.paypal.me/menacherry" target="_blank">https://www.paypal.me/menacherry</a><br><strong>PayPal Donation  email</strong>: <a href="mailto:sunil.kde@gmail.com">sunil.kde@gmail.com</a><br><strong>Ko-fi Donation url</strong>: <a href="https://ko-fi.com/sunilpaulmathew" target="_blank">https://ko-fi.com/sunilpaulmathew</a>
 </p>
@@ -22,8 +22,8 @@ permalink: /donation/
 <h3 style="color: blue">Some other ways to support my projects includes, but not limited to</h3>
 
 * Rate or/and review my applications in Google Play (It's free)!
-* Help me to transalte one my applications to your local language
-* Share good words about my work with others (family, friends, and other enthusiastic android users)
+* Help me to translate my applications into your local language (or improve existing translations).
+* Share good words about my work with others (family, friends, and other enthusiastic android users).
 
 <h3 style="color: blue">List of actively maintained android applications that are now available in Google Play or/and F-Droid</h3>
 

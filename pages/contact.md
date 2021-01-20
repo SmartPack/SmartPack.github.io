@@ -27,3 +27,8 @@ permalink: /contact/
 <h2 style="color: blue">Special note to other developers</h2>
 
 <p style="text-align: justify;"><tab1>Feel free to take anything from my work if you found useful. Giving proper credits to the original developers (including me, if you considered me as one among them) are, however, highly appreciated. Feel free to contact me, if you need any assistance from my side.</tab1></p>
+
+
+<h2 style="color: blue">Hire Me</h2>
+
+<p style="text-align: justify;"><tab1>Want to hire my service? Click <a href="{{ site.github.url }}/hire-me/">here</a> to read more!</tab1></p>

@@ -7,8 +7,6 @@ permalink: /donate/
     tab1 { padding-left: 4em; }
 </style>
 
-<p style="text-align: center;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" width="75" height="75" /></p>
-
 <p style="text-align: justify;">Dear friend,<br><br>
 
 <br><strong>Thank you very much for purchasing SmartPack Donation Package!</strong><br><br>
