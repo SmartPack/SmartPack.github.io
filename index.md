@@ -9,29 +9,15 @@ title: Home
 
 <h2 style="color: blue; text-align: center">SmartPack Projects</h2>
 
-<h3><a href="{{ site.github.url }}/active-projects/">Active Projects</a></h3>
+<p style="text-align: justify;"><tab1>SmartPack projects are a collection of applications designed with an aim to improve the overall experience of an average android user. All the applications provided under this label are necessarily simple, open-sourced and extremely easy-to-use for most majority of users. Moreover, made with a special focus on the privacy (please read our <a href="{{ site.github.url }}/privacy-policy/">Privacy Policy</a>) of end-users, our applications demanding very basic permissions offer an ad-free experience.</tab1></p>
 
-* <a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a>
-* <a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a>
-* <a href="{{ site.github.url }}/scriptmanager/">Script Manager</a>
-* <a href="{{ site.github.url }}/pm/">Package Manager</a>
-* <a href="{{ site.github.url }}/scc/">Screen Color Control</a>
-* <a href="{{ site.github.url }}/bbi/">BusyBox Installer</a>
-* <a href="{{ site.github.url }}/kp/">Kernel Profiler</a>
-* <a href="{{ site.github.url }}/translator/">The Translator</a>
+<h3 style="color: red">Active Projects</h3>
 
-<h3><a href="{{ site.github.url }}/end-of-life/">EOL Projects</a></h3>
+<p style="text-align: justify;"><tab1>A number of applications, including the ones available in Google Play or/and F-Droid, are currently under full support from the developer. Some of the most popular applications include <a href="{{ site.github.url }}/spkm/">SmartPack-Kernel Manager</a>, <a href="{{ site.github.url }}/smartflasher/">Smart Flasher</a>, <a href="{{ site.github.url }}/scriptmanager/">Script Manager</a>, <a href="{{ site.github.url }}/pm/">Package Manager</a>, <a href="{{ site.github.url }}/bbi/">BusyBox Installer</a>, and more. Please check out the download section for more details.</tab1></p>
 
-* SmartPack-Kernel for OnePlus 5/5T (cheeseburger/dumpling).
-* SmartPack-Kernel for Samsung Galaxy S5 (Qualcomm Snapdragon 801 variants).
-* Stock-Kernel (GCC-7.x/8.x) for Samsung Galaxy S5 (Lineage-OS 14.1/15.1)
-* Stock International ROM for Samsung Galaxy S5 (Stock Marshmallow)
-* Unofficial Boeffla-Kernel for Samsung Galaxy S5 (Qualcomm Snapdragon 801 variants).
-* SmartPack-Kernel Samsung Galaxy S5 LTE-A (Qualcomm Snapdragon 805 variants).
-* SmartPack-Kernel Samsung Galaxy S4 (Exynos 5410 variants).
-* SmartPack-Kernel Motorola Moto G 2015 (osprey).
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release" target="_blank"><img src="https://github.com/SmartPack/SmartPack-Kernel-Manager/blob/master/app/src/main/ic_launcher-web.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.scriptmanager" target="_blank"><img src="https://github.com/SmartPack/ScriptManager/blob/master/app/src/main/ic_launcher-web.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.packagemanager" target="_blank"><img src="https://github.com/SmartPack/PackageManager/blob/master/app/src/main/ic_launcher-web.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="https://github.com/SmartPack/SmartFlasher/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelprofiler" target="_blank"><img src="https://github.com/SmartPack/KernelProfiler/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller" target="_blank"><img src="https://github.com/SmartPack/BusyBox-Installer/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.sunilpaulmathew.snotz" target="_blank"><img src="https://github.com/sunilpaulmathew/sNotz/blob/master/app/src/main/ic_launcher-playstore.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.sunilpaulmathew.translator" target="_blank"><img src="https://github.com/sunilpaulmathew/Translator/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.sunilpaulmathew.researchgateclient" target="_blank"><img src="https://github.com/sunilpaulmathew/RG-Client/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a> <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic009.png?raw=true" alt="" height="60" /></a> <a href="https://f-droid.org/packages/com.sunilpaulmathew.debloater" target="_blank"><img src="https://github.com/sunilpaulmathew/De-Bloater/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="" height="60" /></a></p>
 
-<h3>External Links</h3>
+<h3 style="color: red">External Links</h3>
 * SmartPack-Kernel Manager reviewed by <a href="https://taimienphi.vn/download-smartpack-kernel-manager-91478">taimienphi.vn</a>.
 <tab1><a href="https://taimienphi.vn" title="download"><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a></tab1>
 
