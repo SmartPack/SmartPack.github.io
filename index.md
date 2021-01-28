@@ -26,6 +26,5 @@ title: Home
 <h2 style="color: blue; text-align: center">Announcements</h2>
 
 <h3 style="text-align: left">September 20, 2020</h3>
-<p style="text-align: right;"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic001.png?raw=true" alt="" width="75" height="75" /></p>
 
 <p style="text-align: justify;"><tab1>After a bit of struggling, <a href="{{ site.github.url }}/spkm/" target="_blank">SmartPack-Kernel Manager</a> found its way back to PlayStore (<a href="{{ site.github.url }}/announcements">Read More</a>).</tab1></p>

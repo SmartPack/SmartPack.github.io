@@ -14,25 +14,17 @@
     {% include nav.html %}
     {% seo %}
   </head>
-  <body>
-    <div class="wrapper">
+  <body>    
+    {{ content }}
 
-      {% include header.html %}
-
-      <section>
-
-      {{ content }}
-
-      </section>
-
-    </div>
-
- <script src="{{ '/asset/js/scale.fix.js' | relative_url }}"></script>
-
-  {% if site.google_analytics %}
-
-      {% include GoogleAnalytics.html %}
-
-  {% endif %}
+    {% include header.html %}
+    
+    <script src="{{ '/asset/js/scale.fix.js' | relative_url }}"></script>
+    
+    {% if site.google_analytics %}
+    
+    {% include GoogleAnalytics.html %}
+    
+    {% endif %}
   </body>
 </html>
