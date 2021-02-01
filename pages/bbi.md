@@ -8,7 +8,7 @@ permalink: /bbi/
     tab1 { padding-left: 4em; }
 </style>
 
-<p style="text-align: center"><img src="https://github.com/SmartPack/BusyBox-Installer/raw/master/banner.png" alt="" width="500" height="160" /></p>
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/SmartPack/BusyBox-Installer/master/app/src/main/ic_launcher-playstore.png" alt="" width="150" height="150" /></p>
 
 <p style="text-align: justify"><tab1><strong>BusyBox Installer</strong> is a one-click BusyBox installation utility for Android.</tab1></p>
 
@@ -22,7 +22,7 @@ permalink: /bbi/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/BusyBox-Installer/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a></p>
 <hr>
 
 <h3 style="color: blue">Features</h3>
@@ -33,7 +33,7 @@ permalink: /bbi/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/BusyBox-Installer" target="_blank">Source Code</a>
+<p><a href="https://github.com/SmartPack/BusyBox-Installer" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="50" height="50" /></a></p>
 
 <hr>
 

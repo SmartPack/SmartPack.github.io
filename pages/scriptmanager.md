@@ -24,7 +24,7 @@ permalink: /scriptmanager/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://github.com/SmartPack/ScriptManager/blob/master/release/com.smartpack.scriptmanager.apk?raw=true" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.scriptmanager" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://f-droid.org/packages/com.smartpack.scriptmanager" target="_blank"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="" height="60" /></a></p>
 
 <hr>
 
@@ -41,7 +41,7 @@ permalink: /scriptmanager/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/ScriptManager/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/ScriptManager/master/change-logs.md" target="_blank">Change-logs</a>
+<p><a href="https://github.com/SmartPack/ScriptManager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="50" height="50" /></a> <a href="https://raw.githubusercontent.com/SmartPack/ScriptManager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="50" height="50" /></a></p>
 
 <hr>
 

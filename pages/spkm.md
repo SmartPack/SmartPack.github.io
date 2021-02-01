@@ -8,7 +8,7 @@ permalink: /spkm/
     tab1 { padding-left: 4em; }
 </style>
 
-<p style="text-align: center"><img src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/banner.png" alt="" width="500" height="200" /></p>
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png" alt="" width="150" height="150" /></p>
 
 <p style="text-align: justify"><tab1><strong>SmartPack-Kernel Manager</strong> is a heavily modified version of Kernel Adiutor developed by Willi Ye. All the credits go to the original developer, not only for his hard work on Kernel Adiutor, but also for being open to open-source community.</tab1></p>
 
@@ -23,7 +23,7 @@ permalink: /spkm/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.smartpack.kernelmanager.release" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://f-droid.org/packages/com.smartpack.kernelmanager" target="_blank"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="" height="60" /></a> <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
 
 <h3 style="color: blue">Added features over official KA</h3>
 
@@ -67,4 +67,4 @@ permalink: /spkm/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank">Source Code</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank">Change-logs (stable)</a> ! <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/beta/change-logs.md" target="_blank">Change-logs (beta)</a>
+<p><a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="50" height="50" /></a> <a href="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="50" height="50" /></a></p>

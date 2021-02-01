@@ -18,7 +18,7 @@ permalink: /translator/
 
 <h3 style="color: blue">Downloads</h3>
 
-<p><a href="https://github.com/sunilpaulmathew/Translator/releases" target="_blank"><img src="https://i.ibb.co/q0mdc4Z/get-it-on-github.png" alt="" height="60" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.sunilpaulmathew.translator" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a> <a href="https://f-droid.org/packages/com.sunilpaulmathew.translator" target="_blank"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="" height="60" /></a></p>
 <hr>
 
 <h3 style="color: blue">Features</h3>
@@ -29,7 +29,7 @@ permalink: /translator/
 
 <h3 style="color: blue">Important Links</h3>
 
-* <a href="https://github.com/sunilpaulmathew/Translator/" target="_blank">Source Code</a>
+<p><a href="https://github.com/sunilpaulmathew/Translator/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="50" height="50" /></a></p>
 
 <hr>
 

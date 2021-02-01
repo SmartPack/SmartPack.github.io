@@ -14,17 +14,14 @@
     {% include nav.html %}
     {% seo %}
   </head>
-  <body>    
+  <body>
+    <br>
     {{ content }}
 
-    {% include header.html %}
+    <hr>
+
+    <p style="text-align: center;"><small>Idea & design:</small> <b></b>Aswathy Luckose</b></p>
     
     <script src="{{ '/asset/js/scale.fix.js' | relative_url }}"></script>
-    
-    {% if site.google_analytics %}
-    
-    {% include GoogleAnalytics.html %}
-    
-    {% endif %}
   </body>
 </html>

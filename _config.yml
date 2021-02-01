@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: SmartPack Projects
 description: The homepage of SmartPack projects
-plugins:
-  - jekyll-seo-tag
+show_downloads: false
