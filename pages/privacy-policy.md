@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: Privacy Policy
 permalink: /privacy-policy/
 ---

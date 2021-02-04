@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: Hire Me
 permalink: /hire-me/
 ---

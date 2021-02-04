@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: Announcements
 permalink: /announcements/
 ---

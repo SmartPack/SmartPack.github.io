@@ -1,5 +1,4 @@
 @import 'fonts';
-
 @import 'rouge-github';
 
 .topnav {
@@ -80,7 +79,7 @@
 
 body {
   background-color: #fff;
-  padding: 5px 50px 5px 50px;  
+  padding: 5px 50px 5px 50px;
   font: 14px/1.5 'Noto Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #727272;
   font-weight: 400;
@@ -103,6 +102,27 @@ table,
 pre,
 dl {
   margin: 0 0 20px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  color: #393939;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  color: #494949;
 }
 
 a {
@@ -128,8 +148,8 @@ a:hover small {
 }
 
 .wrapper {
-  width: auto;
-  margin: 0 0;
+  width: 1200px;
+  margin: 0 auto;
 }
 
 blockquote {
@@ -175,14 +195,23 @@ th {
   color: #444;
 }
 
+header {
+  width: 250px;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+  z-index: -1;
+}
+
 strong {
   color: #222;
   font-weight: 700;
 }
 
 section {
-  width: auto;
-  float: center;
+  width: 900px;
+  float: right;
+  padding-bottom: 50px;
 }
 
 small {
@@ -196,7 +225,45 @@ hr {
   margin: 0 0 20px;
 }
 
-@media screen and (max-width: 600px) {
+footer {
+  width: 270px;
+  float: left;
+  position: fixed;
+  bottom: 50px;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+@media print, screen and (max-width: 1280px) {
+  div.wrapper {
+    width: 860px;
+    margin: 0 auto;
+  }
+
+  section {
+    width: 550px;
+    float: right;
+    padding-bottom: 50px;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+  div.wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  section {
+    width: auto;
+    float: center;
+    padding-bottom: 5px;
+  }
+
+  header, footer {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 800px) {
   .topnav a:not(:first-child),
   .dropdown .dropbtn {
     display: none;
@@ -207,7 +274,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .topnav.responsive {
     position: relative;
   }
@@ -231,5 +298,19 @@ hr {
     display: block;
     width: 100%;
     text-align: left;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+}
+
+@media print {
+  body {
+    padding: 0.4in;
+    font-size: 12pt;
+    color: #444;
   }
 }

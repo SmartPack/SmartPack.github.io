@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: Report an Issue
 permalink: /report-issue/
 ---

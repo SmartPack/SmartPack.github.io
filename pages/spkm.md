@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: SmartPack-Kernel Manager
 permalink: /spkm/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: BusyBox Installer
 permalink: /bbi/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: smartpack
+layout: default
 title: Package Manager
 permalink: /pm/
 ---
