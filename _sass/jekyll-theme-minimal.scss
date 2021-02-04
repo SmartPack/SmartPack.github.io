@@ -268,32 +268,36 @@ footer {
   .dropdown .dropbtn {
     display: none;
   }
+
+  .topnav.responsive {
+    position: relative;
+  }
+
   .topnav a.icon {
     float: left;
     display: block;
   }
-}
 
-@media screen and (max-width: 800px) {
-  .topnav.responsive {
-    position: relative;
-  }
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
     top: 0;
   }
+
   .topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
   }
+
   .topnav.responsive .dropdown {
     float: none;
   }
+
   .topnav.responsive .dropdown-content {
     position: relative;
   }
+
   .topnav.responsive .dropdown .dropbtn {
     display: block;
     width: 100%;

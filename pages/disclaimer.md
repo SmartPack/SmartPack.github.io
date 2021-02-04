@@ -13,7 +13,7 @@ permalink: /disclaimer/
 
 <h3 style="color: red; text-align: justify">Please be sure to read this page before downloading & using anything from this site!</h3>
 
-<p style="text-align: justify;"><tab1>All the applications available in this site are free and open-source: you can redistribute it and/or modify it under the terms of the GNU <b>General Public License</b> as published by the <i>Free Software Foundation</i>, either version 3 of the License, or (at your option) any later version.</tab1></p>
+<p style="text-align: justify;"><tab1>All the applications available in this site are free and open-source: you can redistribute it and/or modify it under the terms of the <b>GNU General Public License</b> as published by the <i>Free Software Foundation</i>, either version 3 of the License, or (at your option) any later version.</tab1></p>
 
 <p style="text-align: justify;"><tab1>However, please be noted that these applications is distributed in the hope that it will be useful, but <b>WITHOUT ANY WARRANTY</b>; without even the implied warranty of <b>MERCHANTABILITY</b> or <b>FITNESS FOR A PARTICULAR PURPOSE</b>.  See the GNU General Public License (<a href="http://www.gnu.org/licenses/" target="_blank">http://www.gnu.org/licenses/</a>) for more details.</tab1></p>
 
