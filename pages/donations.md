@@ -22,7 +22,7 @@ permalink: /donation/
 <h3 style="color: blue">Some other ways to support my projects includes, but not limited to</h3>
 
 * Rate or/and review my applications in Google Play (It's free)!
-* Help me to translate my applications into your local language (or improve existing translations).
+* Help me to translate my applications into your local language (or improve existing translations). Click <a href="{{ site.github.url }}/translations/">here</a> to read more!
 * Share good words about my work with others (family, friends, and other enthusiastic android users).
 
 <h3 style="color: blue">List of actively maintained android applications that are now available in Google Play or/and F-Droid</h3>
