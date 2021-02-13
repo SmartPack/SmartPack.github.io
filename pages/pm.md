@@ -49,6 +49,12 @@ permalink: /pm/
 
 <hr>
 
+<h3 style="color: blue">Translations</h3>
+
+<p style="text-align: justify"><tab1>Help me to translate this app. Click <a href="{{ site.github.url }}/translations/">here</a> to read more!</tab1></p>
+
+<hr>
+
 <h3 style="color: blue">Important Links</h3>
 
 <p><a href="https://github.com/SmartPack/PackageManager/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic002.png?raw=true" alt="" width="50" height="50" /></a> <a href="https://github.com/SmartPack/PackageManager/raw/master/change-logs.md" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/asset/pic007.png?raw=true" alt="" width="50" height="50" /></a></p>

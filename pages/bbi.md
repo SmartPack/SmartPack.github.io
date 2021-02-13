@@ -43,6 +43,12 @@ permalink: /bbi/
 
 <hr>
 
+<h3 style="color: blue">Translations</h3>
+
+<p style="text-align: justify"><tab1>Help me to translate this app. Click <a href="{{ site.github.url }}/translations/">here</a> to read more!</tab1></p>
+
+<hr>
+
 <h3 style="color: blue">Donations</h3>
 
 <p style="text-align: justify"><tab1>If you like to appreciate my work, please consider donating to me (either via <a href="https://liberapay.com/sunilpaulmathew/donate" target="_blank">Liberapay</a>, <a href="https://www.paypal.me/menacherry" target="_blank">PayPal</a>, <a href="https://ko-fi.com/sunilpaulmathew" target="_blank">Ko-fi</a>, or by purchasing the <a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a> from playstore) as it is helpful to continue my projects more active, although it is not at all necessary.</tab1></p>
