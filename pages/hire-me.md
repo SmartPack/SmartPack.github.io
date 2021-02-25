@@ -26,4 +26,4 @@ permalink: /hire-me/
 
 <h3 style="color: blue">Contact Me</h3>
 
-<p style="text-align: justify;"><tab1>If you have questions or want to discuss something related to the above-pointed offers, please don't hesitate to contact me at <a href="mailto:sunil.kde@gmail.com">sunil.kde@gmail.com</a></tab1></p>
+<p style="text-align: justify;"><tab1>If you have questions or want to discuss something related to the above-pointed offers, please don't hesitate to contact me at <a href="mailto:smartpack.org@gmail.com">smartpack.org@gmail.com</a></tab1></p>
