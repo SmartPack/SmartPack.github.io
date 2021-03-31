@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: SmartPack Projects
 description: The homepage of SmartPack projects
+include: [".well-known"]

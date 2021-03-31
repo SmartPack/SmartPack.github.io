@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: smartpack.github.io
+Token: 333a76e464622b04d312f4c2ac619872bf0d7cd20986684b3525455796b176ec
