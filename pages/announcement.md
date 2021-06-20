@@ -26,18 +26,6 @@ permalink: /announcements/
 
 <hr>
 
-<h3 style="text-align: left">May 27, 2019</h3>
-
-<p style="text-align: justify;"><tab1><a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank">Smart Flasher</a>, a simple app aimed to make flashing recovery zips much easier, is launched in Google PlayStore.<br>
-<br><strong>Features</strong><br>
-<br>&rarr; Flashing recovery zip files (such as a custom kernel, a magisk module, etc.) of up to 100 MB while running Android OS, that is, even without rebooting into custom recovery.
-<br>&rarr; Doing basic tasks such as Turning off & Rebooting (Normal, Recovery & Boot-loader) your device, Wiping Cache & Data partitions, etc.<br>
-<br>For more details, please visit <a href="{{ site.github.url }}/smartflasher/">here</a>.</tab1></p>
-
-<a href="https://play.google.com/store/apps/details?id=com.smartpack.smartflasher" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="" height="60" /></a>
-
-<hr>
-
 <h3 style="text-align: left">May 05, 2019</h3>
 
 <p style="text-align: justify;"><tab1><a href="https://play.google.com/store/apps/details?id=com.smartpack.donate" target="_blank">SmartPack Donation Package</a>, a donation app to support the development of SmartPack projects is launched in Google PlayStore. Please purchase this app if you want to support the development of SmartPack Projects. I'll really appreciate it!<br>

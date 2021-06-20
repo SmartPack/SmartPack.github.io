@@ -11,7 +11,7 @@ permalink: /kerneldownloads/
 <h2 style="color: red; text-align: center">Kernel Downloads</h2>
 
 <h3 style="color: blue">Introduction</h3>
-<p style="text-align: justify"><tab1>This feature will basically allow a developer to add kernel downloads, and auto-flash (not for all devices) support to any Kernel's available for a device through SmartPack-Kernel Manager or Smart Flasher. The only requirement is to host a "<b>.json</b>" file with kernel specific data on somewhere in the web. The json file should be updated upon each and every kernel release. The app will automatically acquire the data from the json file once in every 24 hr (configurable) and display the latest version information within the app. This feature is inspired from a similar feature in <b>franciscofranco</b>'s <b>FK-Kernel Manager</b> (huge thanks to him for the original idea). Hence, the json files created for FK-Kernel Manager will simply work here as well.</tab1></p>
+<p style="text-align: justify"><tab1>This feature will basically allow a developer to add kernel downloads, and auto-flash (not for all devices) support to any Kernel's available for a device through SmartPack-Kernel Manager. The only requirement is to host a "<b>.json</b>" file with kernel specific data on somewhere in the web. The json file should be updated upon each and every kernel release. The app will automatically acquire the data from the json file once in every 24 hr (configurable) and display the latest version information within the app. This feature is inspired from a similar feature in <b>franciscofranco</b>'s <b>FK-Kernel Manager</b> (huge thanks to him for the original idea). Hence, the json files created for FK-Kernel Manager will simply work here as well.</tab1></p>
 
 <hr>
 
@@ -31,7 +31,7 @@ permalink: /kerneldownloads/
 
 <h3 style="color: blue">How-to import an Update Channel (for <i>Users</i>)</h3>
 
-* Simply open the app, go to Flasher/SmartPack page, and input the link provided by your kernel developer in the <b>Update Channel</b> menu.
+* Simply open the app, go to SmartPack page, and input the link provided by your kernel developer in the <b>Update Channel</b> menu.
 
 <hr>
 
