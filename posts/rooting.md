@@ -29,7 +29,7 @@ permalink: /android-rooting/
 * Replace the entire firmware provided by the device manufacturer with a completely new one. It will open up unique opportunities for users to enjoy latest android releases on their relatively old devices in which the official updates from the respective OEMs are most likely unavailable.
 * Use a kernel manager to manipulate kernel parameters for an improved performance or extend battery life (better user experience in general).
 * It is even possible to replace the stock kernel provided by an OEM with a custom one to achieve more kernel-level features.
-* Easily remove unwanted system applications, either in command-line or by using a third party application (e.g. <a href="{{ site.github.url }}/pm/">Package Manager</a>, <a href="{{ site.github.url }}/debloater/">De-Bloater</a>, etc).
+* Easily remove unwanted system applications, either in command-line or by using a third party application (e.g. <a href="https://smartpack.github.io/PackageManager/" target="_blank">Package Manager</a>, <a href="https://sunilpaulmathew.github.io/De-Bloater/" target="_blank">De-Bloater</a>, etc).
 * Customize almost every part of an android device (example: a custom boot screen).
 * Installing an OEM specific application on a device made by another OEM.
 * Installing a Magisk or Xposed modules to bring the customization on your device into another level.
