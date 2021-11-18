@@ -24,3 +24,8 @@ permalink: /translations/
 * <a href="{{ site.github.url }}/debloater/">De-Bloater</a> ! <a href="https://poeditor.com/join/project?hash=BZS89Ev3WG" target="_blank">POEditor Localization</a> ! <a href="https://github.com/sunilpaulmathew/De-Bloater/blob/master/app/src/main/res/values/strings.xml" target="_blank">Download String</a>
 * <a href="{{ site.github.url }}/kp/">Kernel Profiler</a> ! <a href="https://poeditor.com/join/project?hash=ft5P8rw6Wt" target="_blank">POEditor Localization</a> ! <a href="https://github.com/SmartPack/KernelProfiler/blob/master/app/src/main/res/values/strings.xml" target="_blank">Download String</a>
 * <a href="{{ site.github.url }}/translator/">The Translator</a> ! <a href="https://github.com/sunilpaulmathew/Translator/blob/master/app/src/main/res/values/strings.xml" target="_blank">Download String</a>
+
+<hr>
+
+<p style="text-align: justify"><tab1><b>Important</b>: Most of these applications uses a lot of strings from <a href="https://github.com/sunilpaulmathew/sCommon" target="_blank">sCommon</a>, an open-source library sharing common code-base for many of my projects. Hence, please consider translating the library as well to completely use my apps in a specific language.</p>
+* <a href="https://poeditor.com/join/project?hash=9AiLut8Dmy" target="_blank">POEditor Localization</a> ! <a href="https://github.com/sunilpaulmathew/sCommon/blob/master/library/src/main/res/values/strings.xml" target="_blank">Download String</a>
