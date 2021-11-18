@@ -27,5 +27,5 @@ permalink: /translations/
 
 <hr>
 
-<p style="text-align: justify"><tab1><b>Important</b>: Most of these applications uses a lot of strings from <a href="https://github.com/sunilpaulmathew/sCommon" target="_blank">sCommon</a>, an open-source library sharing common code-base for many of my projects. Hence, please consider translating the library as well to completely use my apps in a specific language.</p>
+<p style="text-align: justify"><tab1><b>Important</b>: Most of these applications uses a lot of strings from <a href="https://github.com/sunilpaulmathew/sCommon" target="_blank">sCommon</a>, an open-source library sharing common code-base for many of my projects. Hence, please consider translating the library as well to completely use my apps in a specific language.</tab1></p>
 * <a href="https://poeditor.com/join/project?hash=9AiLut8Dmy" target="_blank">POEditor Localization</a> ! <a href="https://github.com/sunilpaulmathew/sCommon/blob/master/library/src/main/res/values/strings.xml" target="_blank">Download String</a>
