@@ -50,3 +50,5 @@ permalink: /izzyondroid/
 <h3 style="color: blue">Donations</h3>
 
 <p style="text-align: justify"><tab1>Please help me to continue this project more active (<a href="{{ site.github.url }}/donation/" target="_self">Read More</a>)!</tab1></p>
+
+{% include donations.html %}
