@@ -8,8 +8,6 @@ permalink: /translator/
     tab1 { padding-left: 4em; }
 </style>
 
-<h2 style="color: red; text-align: center">The Translator</h2>
-
 <p style="text-align: center"><img src="https://raw.githubusercontent.com/sunilpaulmathew/Translator/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="" width="150" height="150" /></p>
 
 <p style="text-align: justify"><tab1><strong>The Translator</strong> is a simple application to help translate android apps.</tab1></p>
