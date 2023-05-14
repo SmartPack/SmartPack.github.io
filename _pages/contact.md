@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Contacts
 permalink: /contact/
 include_in_footer: true
 ---
