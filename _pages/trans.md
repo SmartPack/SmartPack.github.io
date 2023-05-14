@@ -10,7 +10,7 @@ permalink: /translations/
 
 <h2 style="color: red; text-align: center">Translations</h2>
 
-<p style="text-align: justify"><tab1>Do you wish to use one (or more) of my application in your favourite language? If so, please help me to translate (or consider improving the existing translation) your favourite application via one of the following method listed in the bottom of this page. It will also be a great way to support the development of these applications that are open-source and freely available for everyone.</tab1></p>
+<p style="text-align: justify"><tab1>Do you wish to use one (or more) of our applications in your favourite language? Then, please help us to translate (or consider improving the existing translation) your favourite application via one of the following method listed in the bottom of this page. It will also be a great way to support the development of these applications, that are all open-source and freely available for everyone.</tab1></p>
 
 <p style="text-align: end"><a href="https://poeditor.com/" target="_blank"><img src="https://github.com/SmartPack/SmartPack.github.io/blob/master/assets/pic013.png?raw=true" alt="" width="150" height="50" /></a></p>
 

@@ -28,10 +28,10 @@ include_in_footer: true
 
 <h2 style="color: blue">Note to developers</h2>
 
-<p style="text-align: justify;"><tab1>Feel free to take anything from my work if you found useful. Giving proper credits to the original developers (including me, if you considered me as one among them) are, however, highly appreciated.</tab1></p>
+<p style="text-align: justify;"><tab1>Feel free to take anything from our work if you found useful. Giving proper credits to the original developers (including us, if you consider so) are, however, highly appreciated.</tab1></p>
 
 <hr>
 
-<h2 style="color: blue">Hire Me</h2>
+<h2 style="color: blue">Hire our Service</h2>
 
-<p style="text-align: justify;"><tab1>Want to hire my service? Click <a href="{{ site.github.url }}/hire-me/" target="_self">here</a> to read more</tab1></p>
+<p style="text-align: justify;"><tab1>Want to hire our service? Click <a href="{{ site.github.url }}/hire-me/" target="_self">here</a> to read more</tab1></p>
