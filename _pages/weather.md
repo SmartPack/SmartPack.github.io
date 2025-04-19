@@ -8,7 +8,7 @@ permalink: /weather/
     tab1 { padding-left: 4em; }
 </style>
 
-<p style="text-align: center"><img src="https://raw.githubusercontent.com/sunilpaulmathew/Weather/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="" width="150" height="150" /></p>
+<p style="text-align: center"><img src="https://raw.githubusercontent.com/sunilpaulmathew/Weather/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" alt="" width="250" height="450" /> <img src="https://raw.githubusercontent.com/sunilpaulmathew/Weather/refs/heads/master/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" alt="" width="250" height="450" /></p>
 
 <p style="text-align: justify"><tab1><strong>Weather</strong> is an open-source, privacy-oriented application for accurate and real-time weather updates.</tab1></p>
 

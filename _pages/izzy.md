@@ -8,7 +8,7 @@ permalink: /izzyondroid/
     tab1 { padding-left: 4em; }
 </style>
 
-<p style="text-align: center"><img src="https://gitlab.com/sunilpaulmathew/izzyondroid/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="" width="150" height="150" /></p>
+<p style="text-align: center"><img src="https://gitlab.com/sunilpaulmathew/izzyondroid/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" alt="" width="150" height="150" /></p>
 
 <p style="text-align: justify"><tab1><strong>IzzyOnDroid</strong> is an unofficial client for IzzyOnDroid F-Droid Repository.</tab1></p>
 
